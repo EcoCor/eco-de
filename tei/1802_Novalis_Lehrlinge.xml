@@ -27,12 +27,12 @@
    </extent>
    <publicationStmt>
     <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
-     DH Network Uni Potsdam
+     Digital Humanities Network at the University of Potsdam
     </publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">
-     Zenodo.org
+    <distributor ref="https://ecocor.org">
+     ecocor.org
     </distributor>
-    <date when="2023-04-09"/>
+    <date when="2023-06-01"/>
     <availability>
      <licence target="https://creativecommons.org/licenses/by/4.0/"/>
     </availability>
@@ -88,7 +88,7 @@
    </p>
   </front>
   <body>
-   <div type="chapter">
+   <div type="group">
     <head>
      1. Der Lehrling
     </head>
@@ -117,7 +117,7 @@
      Gerade diese Fremdheit ist mir fremd, und darum hat mich immer diese Sammlung zugleich entfernt und angezogen. Den Lehrer kann und mag ich nicht begreifen. Er ist mir just so unbegreiflich lieb. Ich weiß es, er versteht mich, er hat nie gegen mein Gefühl und meinen Wunsch gesprochen. Vielmehr will er, daß wir den eignen Weg verfolgen, weil jeder neue Weg durch neue Länder geht, und jeder endlich zu diesen Wohnungen, zu dieser heiligen Heimath wieder führet. Auch ich will also meine Figur beschreiben, und wenn kein Sterblicher, nach jener Inschrift dort, den Schleyer hebt, so müssen wir Unsterbliche zu werden suchen; wer ihn nicht heben will, ist kein ächter Lehrling zu Sais.
     </p>
    </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      2. Die Natur
     </head>
