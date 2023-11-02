@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000034_10">
-   </p>
-   <p xml:id="eco_de_000034_20">
-    Die Elfen
-   </p>
+   <div type="front">
+    <head>
+     Die Elfen
+    </head>
+    <head>
+     Tieck, Ludwig (1773-1853)
+    </head>
+   </div>
   </front>
   <body>
    <p xml:id="eco_de_000034_30">

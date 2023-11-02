@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000055_10">
-   </p>
-   <p xml:id="eco_de_000055_20">
-    Ein Bericht für eine Akademie
-   </p>
+   <div type="front">
+    <head>
+     Ein Bericht für eine Akademie
+    </head>
+    <head>
+     Kafka, Franz (1883-1924)
+    </head>
+   </div>
   </front>
   <body>
    <p xml:id="eco_de_000055_30">

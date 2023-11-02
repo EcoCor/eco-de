@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000043_10">
-   </p>
-   <p xml:id="eco_de_000043_20">
-    ﻿Der Nachsommer
-   </p>
+   <div type="front">
+    <head>
+     Nachsommer
+    </head>
+    <head>
+     Stifter, Adalbert (1805-1868)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

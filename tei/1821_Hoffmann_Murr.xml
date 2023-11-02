@@ -83,14 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000037_10">
-   </p>
-   <p xml:id="eco_de_000037_20">
-    Lebensansichten des Katers Murr
-   </p>
-   <p xml:id="eco_de_000037_30">
-    nebst fragmentarischer Biographie des Kapellmeisters Johannes Kreisler in zufälligen Makulaturblättern
-   </p>
+   <div type="front">
+    <head>
+     Lebens-Ansichten des Katers Murr
+    </head>
+    <head>
+     Hoffmann, Theodor (1776-1822)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

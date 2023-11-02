@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000064_10">
-   </p>
-   <p xml:id="eco_de_000064_20">
-    Reise um die Welt
-   </p>
+   <div type="front">
+    <head>
+     Reise um die Welt
+    </head>
+    <head>
+     Chamisso, Adelbert (1781-1838)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

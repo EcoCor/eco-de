@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000042_10">
-   </p>
-   <p xml:id="eco_de_000042_20">
-    ﻿Der grüne Heinrich
-   </p>
+   <div type="front">
+    <head>
+     Der Grüne Heinrich (zweite Fassung)
+    </head>
+    <head>
+     Keller, Gottfried (1819-1890)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

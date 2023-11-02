@@ -83,23 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000059_10">
-   </p>
-   <p xml:id="eco_de_000059_20">
-    Georg Forster
-   </p>
-   <p xml:id="eco_de_000059_30">
-    Ansichten vom Niederrhein,
-   </p>
-   <p xml:id="eco_de_000059_40">
-    von Brabant, Flandern, Holland,
-   </p>
-   <p xml:id="eco_de_000059_50">
-    England und Frankreich,
-   </p>
-   <p xml:id="eco_de_000059_60">
-    im April, Mai und Junius 1790
-   </p>
+   <div type="front">
+    <head>
+     Ansichten vom Niederrhein von Brabant, Flandern, Holland, England und Frankreich im April, Mai und Junius
+    </head>
+    <head>
+     Forster, Georg (1754-1794)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

@@ -83,15 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000048_10">
-    Pfisters Mühle
-   </p>
-   <p xml:id="eco_de_000048_20">
-    Ein Sommerferienheft
-   </p>
-   <p xml:id="eco_de_000048_30">
-    UND IN DEM BLICK AUF DAS GANZE IST DER DOCH EIN STÄRKERER GEIST, WELCHER DAS LACHEN, ALS DER, WELCHER DAS WEINEN NICHT HALTEN KANN Seneca, Von der Gemütsruhe
-   </p>
+   <div type="front">
+    <head>
+     Pfisters Mühle
+    </head>
+    <head>
+     Raabe, Wilhelm (1831-1910)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

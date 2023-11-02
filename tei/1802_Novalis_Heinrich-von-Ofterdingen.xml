@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000032_10">
-   </p>
-   <p xml:id="eco_de_000032_20">
-    ﻿Heinrich von Ofterdingen
-   </p>
+   <div type="front">
+    <head>
+     Heinrich von Ofterdingen
+    </head>
+    <head>
+     Hardenberg, Philipp (1772-1801)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

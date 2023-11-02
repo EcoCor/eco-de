@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000061_10">
-   </p>
-   <p xml:id="eco_de_000061_30">
-    Die Lehrlinge zu Sais
-   </p>
+   <div type="front">
+    <head>
+     Die Lehrlinge von Sais
+    </head>
+    <head>
+     Hardenberg, Philipp (1772-1801)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

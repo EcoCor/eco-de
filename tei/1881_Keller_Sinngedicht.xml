@@ -83,14 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000047_10">
-   </p>
-   <p xml:id="eco_de_000047_20">
-    Gottfried Keller
-   </p>
-   <p xml:id="eco_de_000047_30">
-    Das Sinngedicht
-   </p>
+   <div type="front">
+    <head>
+     Das Sinngedicht
+    </head>
+    <head>
+     Keller, Gottfried (1819-1890)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

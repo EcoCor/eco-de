@@ -83,17 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000038_10">
-   </p>
-   <p xml:id="eco_de_000038_30">
-    Wilhelm Meisters Wanderjahre
-   </p>
-   <p xml:id="eco_de_000038_40">
-    oder
-   </p>
-   <p xml:id="eco_de_000038_50">
-    Die Entsagenden
-   </p>
+   <div type="front">
+    <head>
+     Wilhelm Meisters Wanderjahre
+    </head>
+    <head>
+     von Goethe, Johann (1749-1832)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

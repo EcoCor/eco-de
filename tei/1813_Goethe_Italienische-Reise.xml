@@ -83,14 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000062_10">
-   </p>
-   <p xml:id="eco_de_000062_20">
-    Italienische Reise
-   </p>
-   <p xml:id="eco_de_000062_30">
-    Auch ich in Arkadien!
-   </p>
+   <div type="front">
+    <head>
+     Italienische Reise
+    </head>
+    <head>
+     von Goethe, Johann (1749-1832)
+    </head>
+   </div>
   </front>
   <body>
    <div type="group">

@@ -83,80 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000054_10">
-   </p>
-   <p xml:id="eco_de_000054_20">
-    Lesabéndio
-   </p>
-   <p xml:id="eco_de_000054_30">
-    Ein Asteroiden-Roman
-   </p>
-   <p xml:id="eco_de_000054_40">
-    Personenverzeichnis
-   </p>
-   <p xml:id="eco_de_000054_50">
-    Biba.
-   </p>
-   <p xml:id="eco_de_000054_60">
-    Sehr alter Pallasianer, der sich besonders für die Sonne interessiert und philosophische Bücher schreibt.
-   </p>
-   <p xml:id="eco_de_000054_70">
-    Bombimba.
-   </p>
-   <p xml:id="eco_de_000054_80">
-    Ganz, jugendlicher Pallasianer, dessen Entstehung geschildert wird.
-   </p>
-   <p xml:id="eco_de_000054_90">
-    Dex.
-   </p>
-   <p xml:id="eco_de_000054_100">
-    Ein Führer auf dem Stern Pallas. Die Heraufbeförderung und Bearbeitung des Kaddimohnstahls ist seine Hauptbeschäftigung.
-   </p>
-   <p xml:id="eco_de_000054_110">
-    Labu.
-   </p>
-   <p xml:id="eco_de_000054_120">
-    Ein künstlerischer Führer, der sich fast nur für die Formen mit gekrümmten Linien interessiert.
-   </p>
-   <p xml:id="eco_de_000054_130">
-    Lesabéndio.
-   </p>
-   <p xml:id="eco_de_000054_140">
-    Ein Führer, der mehr technische als künstlerische Interessen hat und die Erbauung eines großen Turmes am meisten fördert.
-   </p>
-   <p xml:id="eco_de_000054_150">
-    Manesi.
-   </p>
-   <p xml:id="eco_de_000054_160">
-    Ein gärtnerisch veranlagter Führer, der für Rankengewächse begeistert ist und viele Pilzwiesen anlegt – auch in den Höhlen des Sterns Pallas.
-   </p>
-   <p xml:id="eco_de_000054_170">
-    Nax.
-   </p>
-   <p xml:id="eco_de_000054_180">
-    Ein Bewohner des Sterns Quikko. Kommt mit neun andern Quikkoïanern durch Vermittlung von Lesabéndio und Biba auf den Pallas.
-   </p>
-   <p xml:id="eco_de_000054_190">
-    Nuse.
-   </p>
-   <p xml:id="eco_de_000054_200">
-    Erbauer von Lichttürmen
-   </p>
-   <p xml:id="eco_de_000054_210">
-    .
-   </p>
-   <p xml:id="eco_de_000054_220">
-    Peka.
-   </p>
-   <p xml:id="eco_de_000054_230">
-    Künstlerischer Führer, der nur mit graden Kanten und Flächen arbeiten will und alle kristallinischen Formen höher schätzt als die anderen Formen.
-   </p>
-   <p xml:id="eco_de_000054_240">
-    Sofanti.
-   </p>
-   <p xml:id="eco_de_000054_250">
-    Fachmann für Hautfabrikation.
-   </p>
+   <div type="front">
+    <head>
+     Lesabéndio. Ein Asteroiden-Roman
+    </head>
+    <head>
+     Scheerbart, Paul (1863-1915)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

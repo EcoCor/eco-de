@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000057_10">
-   </p>
-   <p xml:id="eco_de_000057_20">
-    Unter den Dolomiten
-   </p>
+   <div type="front">
+    <head>
+     Unter den Dolomiten
+    </head>
+    <head>
+     Telmann, Konrad (1854-1897)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

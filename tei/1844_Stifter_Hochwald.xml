@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000040_10">
-   </p>
-   <p xml:id="eco_de_000040_20">
-    Der Hochwald
-   </p>
+   <div type="front">
+    <head>
+     Der Hochwald
+    </head>
+    <head>
+     Stifter, Adalbert (1805-1868)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

@@ -83,11 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000033_10">
-   </p>
-   <p xml:id="eco_de_000033_20">
-    Das Erdbeben in Chili
-   </p>
+   <div type="front">
+    <head>
+     Das Erdbeben in Chili
+    </head>
+    <head>
+     von Kleist, Wilhelm (1777-1811)
+    </head>
+   </div>
   </front>
   <body>
    <p xml:id="eco_de_000033_30">

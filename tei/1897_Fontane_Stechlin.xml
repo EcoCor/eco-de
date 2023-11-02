@@ -83,17 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000051_10">
-   </p>
-   <p xml:id="eco_de_000051_20">
-    ﻿Der Stechlin
-   </p>
-   <p xml:id="eco_de_000051_30">
-    Roman
-   </p>
-   <p xml:id="eco_de_000051_40">
-    Schloß Stechlin
-   </p>
+   <div type="front">
+    <head>
+     Stechlin
+    </head>
+    <head>
+     Fontane, Theodor (1819-1898)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

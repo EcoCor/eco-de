@@ -83,14 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000046_10">
-   </p>
-   <p xml:id="eco_de_000046_20">
-    ﻿Die Leute von Seldwyla
-   </p>
-   <p xml:id="eco_de_000046_30">
-    Novellen
-   </p>
+   <div type="front">
+    <head>
+     Die Leute von Seldwyla
+    </head>
+    <head>
+     Keller, Gottfried (1819-1890)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">

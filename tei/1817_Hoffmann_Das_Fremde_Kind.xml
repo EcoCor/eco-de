@@ -83,17 +83,14 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000035_10">
-   </p>
-   <p xml:id="eco_de_000035_20">
-    Direct source: https://www.projekt-gutenberg.org/etahoff/fremdkin/fremdkin.html
-   </p>
-   <p xml:id="eco_de_000035_40">
-    E. T. A. Hoffmann
-   </p>
-   <p xml:id="eco_de_000035_50">
-    Das fremde Kind
-   </p>
+   <div type="front">
+    <head>
+     Das fremde Kind
+    </head>
+    <head>
+     Hoffmann, Theodor (1776-1822)
+    </head>
+   </div>
   </front>
   <body>
    <div type="chapter">
