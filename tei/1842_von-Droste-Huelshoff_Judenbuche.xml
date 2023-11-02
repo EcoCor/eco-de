@@ -96,9 +96,7 @@
    </p>
   </front>
   <body>
-   <div type="group">
-    <head>
-    </head>
+   
     <p xml:id="eco_de_000039_50">
      Wo ist die Hand so zart, daß ohne Irren
     </p>
@@ -504,7 +502,6 @@
     <p xml:id="eco_de_000039_1530">
      »Wenn du dich diesem Orte nahest, so wird es dir ergehen, wie du mir getan hast.«
     </p>
-   </div>
   </body>
  </text>
 </TEI>

@@ -93,7 +93,7 @@
    </p>
   </front>
   <body>
-   <div type="group">
+   <div type="chapter">
     <head>
      [Einleitung]
     </head>
@@ -170,7 +170,7 @@
      *
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Pankraz, der Schmoller
     </head>
@@ -454,7 +454,7 @@
      *
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Romeo und Julia auf dem Dorfe
     </head>
@@ -750,7 +750,7 @@
      *
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Frau Regel Amrain und ihr Jüngster
     </head>
@@ -959,7 +959,7 @@
      *
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Die drei gerechten Kammacher
     </head>
@@ -1081,7 +1081,7 @@
      *
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Spiegel, das Kätzchen
     </head>

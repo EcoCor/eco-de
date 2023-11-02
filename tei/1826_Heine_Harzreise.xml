@@ -93,9 +93,7 @@
    </p>
   </front>
   <body>
-   <div type="group">
-    <head>
-    </head>
+   
     <p xml:id="eco_de_000063_40">
      Nichts ist dauernd als der Wechsel; nichts beständig als der Tod. Jeder Schlag des Herzens schlägt uns eine Wunde, und das Leben wäre ein ewiges Verbluten, wenn nicht die Dichtkunst wäre. Sie gewährt uns, was uns die Natur versagt: eine goldene Zeit, die nicht rostet, einen Frühling, der nicht abblüht, wolkenloses Glück und ewige Jugend.
     </p>
@@ -1299,7 +1297,6 @@
     <p xml:id="eco_de_000063_4320">
      Es ist der erste Mai, der lumpigste Ladenschwengel hat heute das Recht, sentimental zu werden, und dem Dichter wolltest du es verwehren?
     </p>
-   </div>
   </body>
  </text>
 </TEI>
