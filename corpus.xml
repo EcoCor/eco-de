@@ -7,7 +7,7 @@
       </titleStmt>
       <publicationStmt>
         <publisher>EcoCor</publisher>
-        <idno type="URI" xml:base="https://ecocor.org/">de</idno>
+        <idno>de</idno>
         <idno type="repo">https://github.com/EcoCor/eco-de</idno>
         <availability>
           <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
