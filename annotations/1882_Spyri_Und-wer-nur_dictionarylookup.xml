@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000178_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: Und wer nur Gott zum Freunde hat, dem hilft er immer wieder</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1882_Spyri_Und-wer-nur_tokenized.xml">1882_Spyri_Und-wer-nur_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000178_30_0190" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q643352"/>
+  <annotation target="#eco_de_0000178_30_0700" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q26354"/>
+  <annotation target="#eco_de_0000178_40_0060" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000178_170_1260" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q115128259"/>
+  <annotation target="#eco_de_0000178_540_0640" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q643352"/>
+  <annotation target="#eco_de_0000178_780_0580" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2092297"/>
+  <annotation target="#eco_de_0000178_1390_0460" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q726"/>
+  <annotation target="#eco_de_0000178_1510_0640" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q726"/>
+</listAnnotation>
+</standOff>
+</TEI>

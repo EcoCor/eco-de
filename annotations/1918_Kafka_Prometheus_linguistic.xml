@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_000083_linguistic" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Linguistic annotations: Prometheus</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1918_Kafka_Prometheus_tokenized.xml">1918_Kafka_Prometheus_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="stts">
+      <desc>Stuttgart-Tübingen Tagset (STTS) for German POS tagging.
+      Reference: https://www.ims.uni-stuttgart.de/documents/ressourcen/lexika/tagsets/stts-1999.pdf</desc>
+      <category xml:id="stts-ADJA"><catDesc>Attributive adjective</catDesc></category>
+      <category xml:id="stts-ADJD"><catDesc>Predicative/adverbial adjective</catDesc></category>
+      <category xml:id="stts-ADV"><catDesc>Adverb</catDesc></category>
+      <category xml:id="stts-APPR"><catDesc>Preposition</catDesc></category>
+      <category xml:id="stts-APPRART"><catDesc>Preposition with fused article</catDesc></category>
+      <category xml:id="stts-APPO"><catDesc>Postposition</catDesc></category>
+      <category xml:id="stts-APZR"><catDesc>Right part of circumposition</catDesc></category>
+      <category xml:id="stts-ART"><catDesc>Article</catDesc></category>
+      <category xml:id="stts-CARD"><catDesc>Cardinal number</catDesc></category>
+      <category xml:id="stts-FM"><catDesc>Foreign material</catDesc></category>
+      <category xml:id="stts-ITJ"><catDesc>Interjection</catDesc></category>
+      <category xml:id="stts-KOKOM"><catDesc>Comparative conjunction</catDesc></category>
+      <category xml:id="stts-KON"><catDesc>Coordinating conjunction</catDesc></category>
+      <category xml:id="stts-KOUI"><catDesc>Subordinating conjunction with zu + infinitive</catDesc></category>
+      <category xml:id="stts-KOUS"><catDesc>Subordinating conjunction</catDesc></category>
+      <category xml:id="stts-NE"><catDesc>Proper noun</catDesc></category>
+      <category xml:id="stts-NN"><catDesc>Common noun</catDesc></category>
+      <category xml:id="stts-NNE"><catDesc>Proper noun (variant)</catDesc></category>
+      <category xml:id="stts-PDAT"><catDesc>Demonstrative pronoun (attributive)</catDesc></category>
+      <category xml:id="stts-PDS"><catDesc>Demonstrative pronoun (substituting)</catDesc></category>
+      <category xml:id="stts-PIAT"><catDesc>Indefinite pronoun (attributive)</catDesc></category>
+      <category xml:id="stts-PIS"><catDesc>Indefinite pronoun (substituting)</catDesc></category>
+      <category xml:id="stts-PPER"><catDesc>Personal pronoun</catDesc></category>
+      <category xml:id="stts-PPOSAT"><catDesc>Possessive pronoun (attributive)</catDesc></category>
+      <category xml:id="stts-PPOSS"><catDesc>Possessive pronoun (substituting)</catDesc></category>
+      <category xml:id="stts-PRELAT"><catDesc>Relative pronoun (attributive)</catDesc></category>
+      <category xml:id="stts-PRELS"><catDesc>Relative pronoun (substituting)</catDesc></category>
+      <category xml:id="stts-PRF"><catDesc>Reflexive pronoun</catDesc></category>
+      <category xml:id="stts-PROAV"><catDesc>Pronominal adverb</catDesc></category>
+      <category xml:id="stts-PTKA"><catDesc>Particle with adjective/adverb</catDesc></category>
+      <category xml:id="stts-PTKANT"><catDesc>Answer particle</catDesc></category>
+      <category xml:id="stts-PTKNEG"><catDesc>Negation particle</catDesc></category>
+      <category xml:id="stts-PTKVZ"><catDesc>Separable verb prefix</catDesc></category>
+      <category xml:id="stts-PTKZU"><catDesc>zu particle</catDesc></category>
+      <category xml:id="stts-PWAT"><catDesc>Interrogative pronoun (attributive)</catDesc></category>
+      <category xml:id="stts-PWAV"><catDesc>Interrogative/relative adverb</catDesc></category>
+      <category xml:id="stts-TRUNC"><catDesc>Truncated word</catDesc></category>
+      <category xml:id="stts-VAFIN"><catDesc>Finite auxiliary verb</catDesc></category>
+      <category xml:id="stts-VAIMP"><catDesc>Imperative auxiliary verb</catDesc></category>
+      <category xml:id="stts-VAINF"><catDesc>Infinitive auxiliary verb</catDesc></category>
+      <category xml:id="stts-VAPP"><catDesc>Past participle auxiliary verb</catDesc></category>
+      <category xml:id="stts-VMFIN"><catDesc>Finite modal verb</catDesc></category>
+      <category xml:id="stts-VMINF"><catDesc>Infinitive modal verb</catDesc></category>
+      <category xml:id="stts-VMPP"><catDesc>Past participle modal verb</catDesc></category>
+      <category xml:id="stts-VVFIN"><catDesc>Finite full verb</catDesc></category>
+      <category xml:id="stts-VVIMP"><catDesc>Imperative full verb</catDesc></category>
+      <category xml:id="stts-VVINF"><catDesc>Infinitive full verb</catDesc></category>
+      <category xml:id="stts-VVIZU"><catDesc>Infinitive full verb with zu</catDesc></category>
+      <category xml:id="stts-VVPP"><catDesc>Past participle full verb</catDesc></category>
+      <category xml:id="stts-XY"><catDesc>Non-word</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>spaCy de_core_news_sm</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="linguistic">
+  <annotation target="#eco_de_000083_40_0010" ana="#stts-APPR"><note type="lemma">von</note></annotation>
+  <annotation target="#eco_de_000083_40_0020" ana="#stts-NE"><note type="lemma">Prometheus</note></annotation>
+  <annotation target="#eco_de_000083_40_0030" ana="#stts-VVFIN"><note type="lemma">berichten</note></annotation>
+  <annotation target="#eco_de_000083_40_0040" ana="#stts-CARD"><note type="lemma">vier</note></annotation>
+  <annotation target="#eco_de_000083_40_0050" ana="#stts-NN"><note type="lemma">Sage</note></annotation>
+  <annotation target="#eco_de_000083_40_0070" ana="#stts-APPR"><note type="lemma">nach</note></annotation>
+  <annotation target="#eco_de_000083_40_0080" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_40_0090" ana="#stts-ADJA"><note type="lemma">erster</note></annotation>
+  <annotation target="#eco_de_000083_40_0100" ana="#stts-VAFIN"><note type="lemma">werden</note></annotation>
+  <annotation target="#eco_de_000083_40_0110" ana="#stts-PPER"><note type="lemma">er</note></annotation>
+  <annotation target="#eco_de_000083_40_0130" ana="#stts-KOUS"><note type="lemma">weil</note></annotation>
+  <annotation target="#eco_de_000083_40_0140" ana="#stts-PPER"><note type="lemma">er</note></annotation>
+  <annotation target="#eco_de_000083_40_0150" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_40_0160" ana="#stts-NN"><note type="lemma">Götter</note></annotation>
+  <annotation target="#eco_de_000083_40_0170" ana="#stts-APPR"><note type="lemma">an</note></annotation>
+  <annotation target="#eco_de_000083_40_0180" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_40_0190" ana="#stts-NN"><note type="lemma">Mensch</note></annotation>
+  <annotation target="#eco_de_000083_40_0200" ana="#stts-VVPP"><note type="lemma">verraten</note></annotation>
+  <annotation target="#eco_de_000083_40_0210" ana="#stts-VAFIN"><note type="lemma">haben</note></annotation>
+  <annotation target="#eco_de_000083_40_0230" ana="#stts-APPRART"><note type="lemma">an</note></annotation>
+  <annotation target="#eco_de_000083_40_0240" ana="#stts-NE"><note type="lemma">Kaukasus</note></annotation>
+  <annotation target="#eco_de_000083_40_0250" ana="#stts-VVFIN"><note type="lemma">festgeschmieden</note></annotation>
+  <annotation target="#eco_de_000083_40_0270" ana="#stts-KON"><note type="lemma">und</note></annotation>
+  <annotation target="#eco_de_000083_40_0280" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_40_0290" ana="#stts-NN"><note type="lemma">Gott</note></annotation>
+  <annotation target="#eco_de_000083_40_0300" ana="#stts-VVFIN"><note type="lemma">schicken</note></annotation>
+  <annotation target="#eco_de_000083_40_0310" ana="#stts-NN"><note type="lemma">Adler</note></annotation>
+  <annotation target="#eco_de_000083_40_0330" ana="#stts-PRELS"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_40_0340" ana="#stts-APPR"><note type="lemma">von</note></annotation>
+  <annotation target="#eco_de_000083_40_0350" ana="#stts-PPOSAT"><note type="lemma">sein</note></annotation>
+  <annotation target="#eco_de_000083_40_0360" ana="#stts-ADV"><note type="lemma">immer</note></annotation>
+  <annotation target="#eco_de_000083_40_0370" ana="#stts-ADJA"><note type="lemma">wachsend</note></annotation>
+  <annotation target="#eco_de_000083_40_0380" ana="#stts-NN"><note type="lemma">Leber</note></annotation>
+  <annotation target="#eco_de_000083_40_0390" ana="#stts-VVPP"><note type="lemma">fraßen</note></annotation>
+  <annotation target="#eco_de_000083_50_0010" ana="#stts-APPR"><note type="lemma">nach</note></annotation>
+  <annotation target="#eco_de_000083_50_0020" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_50_0030" ana="#stts-ADJA"><note type="lemma">zweiter</note></annotation>
+  <annotation target="#eco_de_000083_50_0040" ana="#stts-VVFIN"><note type="lemma">drücken</note></annotation>
+  <annotation target="#eco_de_000083_50_0050" ana="#stts-PRF"><note type="lemma">sich</note></annotation>
+  <annotation target="#eco_de_000083_50_0060" ana="#stts-NE"><note type="lemma">Prometheus</note></annotation>
+  <annotation target="#eco_de_000083_50_0070" ana="#stts-APPRART"><note type="lemma">in</note></annotation>
+  <annotation target="#eco_de_000083_50_0080" ana="#stts-NN"><note type="lemma">Schmerz</note></annotation>
+  <annotation target="#eco_de_000083_50_0090" ana="#stts-APPR"><note type="lemma">vor</note></annotation>
+  <annotation target="#eco_de_000083_50_0100" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_50_0110" ana="#stts-ADJA"><note type="lemma">zuhackend</note></annotation>
+  <annotation target="#eco_de_000083_50_0120" ana="#stts-NN"><note type="lemma">Schnäbel</note></annotation>
+  <annotation target="#eco_de_000083_50_0130" ana="#stts-ADV"><note type="lemma">immer</note></annotation>
+  <annotation target="#eco_de_000083_50_0140" ana="#stts-ADJD"><note type="lemma">tief</note></annotation>
+  <annotation target="#eco_de_000083_50_0150" ana="#stts-APPR"><note type="lemma">in</note></annotation>
+  <annotation target="#eco_de_000083_50_0160" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_50_0170" ana="#stts-NN"><note type="lemma">Fels</note></annotation>
+  <annotation target="#eco_de_000083_50_0190" ana="#stts-KOUS"><note type="lemma">bis</note></annotation>
+  <annotation target="#eco_de_000083_50_0200" ana="#stts-PPER"><note type="lemma">er</note></annotation>
+  <annotation target="#eco_de_000083_50_0210" ana="#stts-APPR"><note type="lemma">mit</note></annotation>
+  <annotation target="#eco_de_000083_50_0220" ana="#stts-PPER"><note type="lemma">ihm</note></annotation>
+  <annotation target="#eco_de_000083_50_0230" ana="#stts-CARD"><note type="lemma">einer</note></annotation>
+  <annotation target="#eco_de_000083_50_0240" ana="#stts-VAFIN"><note type="lemma">werden</note></annotation>
+  <annotation target="#eco_de_000083_60_0010" ana="#stts-APPR"><note type="lemma">nach</note></annotation>
+  <annotation target="#eco_de_000083_60_0020" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_60_0030" ana="#stts-ADJA"><note type="lemma">dritter</note></annotation>
+  <annotation target="#eco_de_000083_60_0040" ana="#stts-VAFIN"><note type="lemma">werden</note></annotation>
+  <annotation target="#eco_de_000083_60_0050" ana="#stts-APPR"><note type="lemma">in</note></annotation>
+  <annotation target="#eco_de_000083_60_0060" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_60_0070" ana="#stts-NN"><note type="lemma">Jahrtausend</note></annotation>
+  <annotation target="#eco_de_000083_60_0080" ana="#stts-PPOSAT"><note type="lemma">sein</note></annotation>
+  <annotation target="#eco_de_000083_60_0090" ana="#stts-NN"><note type="lemma">Verrat</note></annotation>
+  <annotation target="#eco_de_000083_60_0100" ana="#stts-VVPP"><note type="lemma">vergessen</note></annotation>
+  <annotation target="#eco_de_000083_60_0120" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_60_0130" ana="#stts-NN"><note type="lemma">Gott</note></annotation>
+  <annotation target="#eco_de_000083_60_0140" ana="#stts-VVFIN"><note type="lemma">vergaßen</note></annotation>
+  <annotation target="#eco_de_000083_60_0160" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_60_0170" ana="#stts-NN"><note type="lemma">Adler</note></annotation>
+  <annotation target="#eco_de_000083_60_0190" ana="#stts-PPER"><note type="lemma">er</note></annotation>
+  <annotation target="#eco_de_000083_60_0200" ana="#stts-ADV"><note type="lemma">selbst</note></annotation>
+  <annotation target="#eco_de_000083_70_0010" ana="#stts-APPR"><note type="lemma">nach</note></annotation>
+  <annotation target="#eco_de_000083_70_0020" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_70_0030" ana="#stts-NN"><note type="lemma">vierter</note></annotation>
+  <annotation target="#eco_de_000083_70_0040" ana="#stts-VAFIN"><note type="lemma">werden</note></annotation>
+  <annotation target="#eco_de_000083_70_0050" ana="#stts-PIS"><note type="lemma">man</note></annotation>
+  <annotation target="#eco_de_000083_70_0060" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_70_0070" ana="#stts-ADJD"><note type="lemma">grundlos</note></annotation>
+  <annotation target="#eco_de_000083_70_0080" ana="#stts-NN"><note type="lemma">Geworden</note></annotation>
+  <annotation target="#eco_de_000083_70_0090" ana="#stts-ADJD"><note type="lemma">müde</note></annotation>
+  <annotation target="#eco_de_000083_70_0110" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_70_0120" ana="#stts-NN"><note type="lemma">Götter</note></annotation>
+  <annotation target="#eco_de_000083_70_0130" ana="#stts-VAFIN"><note type="lemma">werden</note></annotation>
+  <annotation target="#eco_de_000083_70_0140" ana="#stts-ADJD"><note type="lemma">müde</note></annotation>
+  <annotation target="#eco_de_000083_70_0160" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_70_0170" ana="#stts-NN"><note type="lemma">Adler</note></annotation>
+  <annotation target="#eco_de_000083_70_0180" ana="#stts-VAFIN"><note type="lemma">werden</note></annotation>
+  <annotation target="#eco_de_000083_70_0190" ana="#stts-ADJD"><note type="lemma">müde</note></annotation>
+  <annotation target="#eco_de_000083_70_0210" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_70_0220" ana="#stts-NN"><note type="lemma">Wunde</note></annotation>
+  <annotation target="#eco_de_000083_70_0230" ana="#stts-VVFIN"><note type="lemma">schließen</note></annotation>
+  <annotation target="#eco_de_000083_70_0240" ana="#stts-PRF"><note type="lemma">sich</note></annotation>
+  <annotation target="#eco_de_000083_70_0250" ana="#stts-ADJD"><note type="lemma">müde</note></annotation>
+  <annotation target="#eco_de_000083_80_0010" ana="#stts-NE"><note type="lemma">Blieb</note></annotation>
+  <annotation target="#eco_de_000083_80_0020" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_80_0030" ana="#stts-ADJA"><note type="lemma">unerklärlich</note></annotation>
+  <annotation target="#eco_de_000083_80_0040" ana="#stts-NN"><note type="lemma">Felsgebirge</note></annotation>
+  <annotation target="#eco_de_000083_80_0070" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_80_0080" ana="#stts-NN"><note type="lemma">Sage</note></annotation>
+  <annotation target="#eco_de_000083_80_0090" ana="#stts-VVFIN"><note type="lemma">versuchen</note></annotation>
+  <annotation target="#eco_de_000083_80_0100" ana="#stts-ART"><note type="lemma">der</note></annotation>
+  <annotation target="#eco_de_000083_80_0110" ana="#stts-NN"><note type="lemma">Unerklärliche</note></annotation>
+  <annotation target="#eco_de_000083_80_0120" ana="#stts-PTKZU"><note type="lemma">zu</note></annotation>
+  <annotation target="#eco_de_000083_80_0130" ana="#stts-VVINF"><note type="lemma">erklären</note></annotation>
+  <annotation target="#eco_de_000083_80_0150" ana="#stts-KOUS"><note type="lemma">da</note></annotation>
+  <annotation target="#eco_de_000083_80_0160" ana="#stts-PPER"><note type="lemma">sie</note></annotation>
+  <annotation target="#eco_de_000083_80_0170" ana="#stts-APPR"><note type="lemma">aus</note></annotation>
+  <annotation target="#eco_de_000083_80_0180" ana="#stts-ART"><note type="lemma">ein</note></annotation>
+  <annotation target="#eco_de_000083_80_0190" ana="#stts-NN"><note type="lemma">Wahrheitsgrund</note></annotation>
+  <annotation target="#eco_de_000083_80_0200" ana="#stts-VVFIN"><note type="lemma">kommen</note></annotation>
+  <annotation target="#eco_de_000083_80_0220" ana="#stts-VMFIN"><note type="lemma">müssen</note></annotation>
+  <annotation target="#eco_de_000083_80_0230" ana="#stts-PPER"><note type="lemma">sie</note></annotation>
+  <annotation target="#eco_de_000083_80_0240" ana="#stts-ADV"><note type="lemma">wieder</note></annotation>
+  <annotation target="#eco_de_000083_80_0250" ana="#stts-APPRART"><note type="lemma">in</note></annotation>
+  <annotation target="#eco_de_000083_80_0260" ana="#stts-NN"><note type="lemma">unerklärliche</note></annotation>
+  <annotation target="#eco_de_000083_80_0270" ana="#stts-VVINF"><note type="lemma">enden</note></annotation>
+</listAnnotation>
+</standOff>
+</TEI>

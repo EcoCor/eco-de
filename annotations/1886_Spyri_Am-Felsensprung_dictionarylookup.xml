@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000174_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: Am Felsensprung</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1886_Spyri_Am-Felsensprung_tokenized.xml">1886_Spyri_Am-Felsensprung_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000174_80_0080" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_80_0380" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_80_0400" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_90_0180" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_100_0430" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_120_0130" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_270_0470" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10998"/>
+  <annotation target="#eco_de_0000174_280_0630" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10998"/>
+  <annotation target="#eco_de_0000174_290_1020" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10998"/>
+  <annotation target="#eco_de_0000174_630_0310" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10998"/>
+  <annotation target="#eco_de_0000174_640_0940" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_740_0190" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q102231"/>
+  <annotation target="#eco_de_0000174_810_1560" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q115128259"/>
+  <annotation target="#eco_de_0000174_820_0580" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000174_1010_0900" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10998"/>
+  <annotation target="#eco_de_0000174_1280_0500" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+</listAnnotation>
+</standOff>
+</TEI>

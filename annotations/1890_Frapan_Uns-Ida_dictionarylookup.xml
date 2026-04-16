@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000155_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: »Uns&apos; Ida«</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1890_Frapan_Uns-Ida_tokenized.xml">1890_Frapan_Uns-Ida_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000155_30_0220" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2731073"/>
+  <annotation target="#eco_de_0000155_30_0800" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q152"/>
+  <annotation target="#eco_de_0000155_30_2500" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_30_3540" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_50_0500" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q152"/>
+  <annotation target="#eco_de_0000155_400_0130" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q152"/>
+  <annotation target="#eco_de_0000155_410_0890" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q388450"/>
+  <annotation target="#eco_de_0000155_410_1490" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q152"/>
+  <annotation target="#eco_de_0000155_540_1990" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10998"/>
+  <annotation target="#eco_de_0000155_550_1160" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_550_1600" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q152"/>
+  <annotation target="#eco_de_0000155_550_1820" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_550_2510" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_560_0330" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_620_0110" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q152"/>
+  <annotation target="#eco_de_0000155_740_0270" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_770_0550" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q36396"/>
+  <annotation target="#eco_de_0000155_780_0510" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+  <annotation target="#eco_de_0000155_790_0050" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2751223"/>
+</listAnnotation>
+</standOff>
+</TEI>

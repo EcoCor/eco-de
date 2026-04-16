@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000180_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: Die stilisierte Frau</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1893_von-Buelow_Die-stilisierte-Frau_tokenized.xml">1893_von-Buelow_Die-stilisierte-Frau_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000180_860_0350" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q26354"/>
+  <annotation target="#eco_de_0000180_860_0390" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000180_860_0560" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q27344"/>
+  <annotation target="#eco_de_0000180_860_0680" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q14169641"/>
+  <annotation target="#eco_de_0000180_1230_0090" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q168881"/>
+  <annotation target="#eco_de_0000180_1770_0170" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q726"/>
+  <annotation target="#eco_de_0000180_2620_0220" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q14169641"/>
+  <annotation target="#eco_de_0000180_5700_0060" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000180_5930_0100" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q19832477"/>
+  <annotation target="#eco_de_0000180_5960_0290" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q19832477"/>
+  <annotation target="#eco_de_0000180_6000_0090" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q19832477"/>
+  <annotation target="#eco_de_0000180_7110_0080" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q102231"/>
+  <annotation target="#eco_de_0000180_7120_0060" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q14169641"/>
+</listAnnotation>
+</standOff>
+</TEI>

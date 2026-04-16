@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_000044_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: Waldwinkel</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1874_Storm_Waldwinkel_tokenized.xml">1874_Storm_Waldwinkel_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_000044_160_0220" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_000044_370_0430" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q1367"/>
+  <annotation target="#eco_de_000044_460_0140" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_470_0050" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_470_0320" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_480_0350" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_510_0170" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q25307"/>
+  <annotation target="#eco_de_000044_520_0400" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q22662080"/>
+  <annotation target="#eco_de_000044_530_0670" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q22662080"/>
+  <annotation target="#eco_de_000044_630_0450" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q3711329"/>
+  <annotation target="#eco_de_000044_640_0200" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q25307"/>
+  <annotation target="#eco_de_000044_800_0110" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q22662080"/>
+  <annotation target="#eco_de_000044_800_1540" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q26349"/>
+  <annotation target="#eco_de_000044_950_0110" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_980_0130" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q38904"/>
+  <annotation target="#eco_de_000044_1000_0110" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q38904"/>
+  <annotation target="#eco_de_000044_1210_0770" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1230_0900" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q31835038"/>
+  <annotation target="#eco_de_000044_1270_0110" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q29838690"/>
+  <annotation target="#eco_de_000044_1270_0400" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q29838690"/>
+  <annotation target="#eco_de_000044_1290_0210" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1290_0400" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q8331"/>
+  <annotation target="#eco_de_000044_1290_1070" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1310_0200" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q17592"/>
+  <annotation target="#eco_de_000044_1450_0270" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1480_0800" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1490_0240" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1490_0390" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q25405"/>
+  <annotation target="#eco_de_000044_1500_0380" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_000044_1530_0160" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_1960_0260" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q18845"/>
+  <annotation target="#eco_de_000044_1980_0280" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q25756"/>
+  <annotation target="#eco_de_000044_2030_0430" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_2390_0500" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_2390_1660" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2102"/>
+  <annotation target="#eco_de_000044_2470_0540" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q28557"/>
+  <annotation target="#eco_de_000044_3020_0340" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_3540_0280" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_3550_0040" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_3550_0460" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_3680_0230" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_3710_0040" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_3940_0410" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q146198"/>
+  <annotation target="#eco_de_000044_3940_0560" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q115694025"/>
+  <annotation target="#eco_de_000044_4000_0140" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q17592"/>
+  <annotation target="#eco_de_000044_4080_0080" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4090_0500" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q17592"/>
+  <annotation target="#eco_de_000044_4090_0960" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4110_0970" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q17592"/>
+  <annotation target="#eco_de_000044_4150_1840" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_000044_4260_1030" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q1135880"/>
+  <annotation target="#eco_de_000044_4330_0480" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_000044_4350_0280" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q18845"/>
+  <annotation target="#eco_de_000044_4390_0120" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q25756"/>
+  <annotation target="#eco_de_000044_4410_0180" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_000044_4420_0540" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4670_0780" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4690_0360" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4740_0190" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4740_0810" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4740_0900" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q122069"/>
+  <annotation target="#eco_de_000044_4750_0370" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4760_1430" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q102231"/>
+  <annotation target="#eco_de_000044_4830_0250" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4870_1540" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_000044_4890_0160" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_4900_0930" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_000044_5030_0080" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q38904"/>
+</listAnnotation>
+</standOff>
+</TEI>

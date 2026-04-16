@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eco_de_000094_tokenized" xml:lang="de" type="tokenized">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Johanna
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q77470">
+     Laube, Heinrich (1806-1884)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   <respStmt><resp>EcoCor conversion</resp><name>ecocor-tokenizer</name></respStmt></titleStmt>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01" />
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/" />
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title />
+     <author />
+    </bibl>
+    <bibl type="printSource">
+     <author />
+     <title />
+     <respStmt>
+      <resp />
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace />
+     <publisher />
+     <date />
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace />
+     <date when="1837">
+      1837
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="ecocor-tokenized"><p>Tokenized TEI with vanilla &lt;w&gt; and &lt;pc&gt; elements.</p></encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+    
+    
+    
+    
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000094_20">
+    Heinrich Laube
+   </p>
+   <p xml:id="eco_de_000094_30">
+    Johanna
+   </p>
+   <p xml:id="eco_de_000094_40">
+    (aus dem III. Band der »Reisenovellen«)
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000094_50"><w xml:id="eco_de_000094_50_0010">Es</w>
+  <w xml:id="eco_de_000094_50_0020">war</w>
+  <w xml:id="eco_de_000094_50_0030">eine</w>
+  <w xml:id="eco_de_000094_50_0040">so</w>
+  <w xml:id="eco_de_000094_50_0050">verlockend</w>
+  <w xml:id="eco_de_000094_50_0060">milde</w>
+  <w xml:id="eco_de_000094_50_0070">Luft</w>
+  <pc xml:id="eco_de_000094_50_0080">,</pc>
+  <w xml:id="eco_de_000094_50_0090">daß</w>
+  <w xml:id="eco_de_000094_50_0100">wir</w>
+  <w xml:id="eco_de_000094_50_0110">uns</w>
+  <w xml:id="eco_de_000094_50_0120">nicht</w>
+  <w xml:id="eco_de_000094_50_0130">entschließen</w>
+  <w xml:id="eco_de_000094_50_0140">mochten</w>
+  <pc xml:id="eco_de_000094_50_0150">,</pc>
+  <w xml:id="eco_de_000094_50_0160">nach</w>
+  <w xml:id="eco_de_000094_50_0170">Hause</w>
+  <w xml:id="eco_de_000094_50_0180">zu</w>
+  <w xml:id="eco_de_000094_50_0190">gehen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_50_0200">.</pc>
+  <w xml:id="eco_de_000094_50_0210">Die</w>
+  <w xml:id="eco_de_000094_50_0220">Sterne</w>
+  <w xml:id="eco_de_000094_50_0230">glänzten</w>
+  <w xml:id="eco_de_000094_50_0240">wie</w>
+  <w xml:id="eco_de_000094_50_0250">Liebesaugen</w>
+  <w xml:id="eco_de_000094_50_0260">einer</w>
+  <w xml:id="eco_de_000094_50_0270">fernen</w>
+  <w xml:id="eco_de_000094_50_0280">Welt</w>
+  <pc xml:id="eco_de_000094_50_0290">;</pc>
+  <w xml:id="eco_de_000094_50_0300">Nachtwinde</w>
+  <pc xml:id="eco_de_000094_50_0310">,</pc>
+  <w xml:id="eco_de_000094_50_0320">weich</w>
+  <w xml:id="eco_de_000094_50_0330">wie</w>
+  <w xml:id="eco_de_000094_50_0340">Sammt</w>
+  <pc xml:id="eco_de_000094_50_0350">,</pc>
+  <w xml:id="eco_de_000094_50_0360">spielten</w>
+  <w xml:id="eco_de_000094_50_0370">in</w>
+  <w xml:id="eco_de_000094_50_0380">den</w>
+  <w xml:id="eco_de_000094_50_0390">Lüften</w>
+  <pc xml:id="eco_de_000094_50_0400">,</pc>
+  <w xml:id="eco_de_000094_50_0410">üppiges</w>
+  <pc xml:id="eco_de_000094_50_0420">,</pc>
+  <w xml:id="eco_de_000094_50_0430">verführerisches</w>
+  <w xml:id="eco_de_000094_50_0440">Schweigen</w>
+  <w xml:id="eco_de_000094_50_0450">lag</w>
+  <w xml:id="eco_de_000094_50_0460">wie</w>
+  <w xml:id="eco_de_000094_50_0470">ein</w>
+  <w xml:id="eco_de_000094_50_0480">Seidenmantel</w>
+  <w xml:id="eco_de_000094_50_0490">über</w>
+  <w xml:id="eco_de_000094_50_0500">der</w>
+  <w xml:id="eco_de_000094_50_0510">Erde</w>
+  <pc unit="sentence" xml:id="eco_de_000094_50_0520">.</pc>
+</p>
+    <p xml:id="eco_de_000094_60"><w xml:id="eco_de_000094_60_0010">Johanna</w>
+  <pc xml:id="eco_de_000094_60_0020">,</pc>
+  <w xml:id="eco_de_000094_60_0030">bis</w>
+  <w xml:id="eco_de_000094_60_0040">zum</w>
+  <w xml:id="eco_de_000094_60_0050">Abende</w>
+  <w xml:id="eco_de_000094_60_0060">ernst</w>
+  <w xml:id="eco_de_000094_60_0070">und</w>
+  <w xml:id="eco_de_000094_60_0080">zurückhaltend</w>
+  <pc xml:id="eco_de_000094_60_0090">,</pc>
+  <w xml:id="eco_de_000094_60_0100">war</w>
+  <w xml:id="eco_de_000094_60_0110">bei'm</w>
+  <w xml:id="eco_de_000094_60_0120">Sperl</w>
+  <w xml:id="eco_de_000094_60_0130">munter</w>
+  <w xml:id="eco_de_000094_60_0140">geworden</w>
+  <pc xml:id="eco_de_000094_60_0150">,</pc>
+  <w xml:id="eco_de_000094_60_0160">jetzt</w>
+  <w xml:id="eco_de_000094_60_0170">sang</w>
+  <w xml:id="eco_de_000094_60_0180">sie</w>
+  <w xml:id="eco_de_000094_60_0190">ein</w>
+  <w xml:id="eco_de_000094_60_0200">ungarisches</w>
+  <w xml:id="eco_de_000094_60_0210">Liedchen</w>
+  <w xml:id="eco_de_000094_60_0220">in</w>
+  <w xml:id="eco_de_000094_60_0230">die</w>
+  <w xml:id="eco_de_000094_60_0240">Luft</w>
+  <w xml:id="eco_de_000094_60_0250">hinaus</w>
+  <pc xml:id="eco_de_000094_60_0260">:</pc>
+</p>
+    <p xml:id="eco_de_000094_70"><w xml:id="eco_de_000094_70_0010">Lüftchen</w>
+  <w xml:id="eco_de_000094_70_0020">kommst</w>
+  <w xml:id="eco_de_000094_70_0030">Du</w>
+  <w xml:id="eco_de_000094_70_0040">aus</w>
+  <w xml:id="eco_de_000094_70_0050">dem</w>
+  <w xml:id="eco_de_000094_70_0060">Morgen</w>
+  <pc xml:id="eco_de_000094_70_0070">,</pc>
+  <w xml:id="eco_de_000094_70_0080">Wo</w>
+  <w xml:id="eco_de_000094_70_0090">die</w>
+  <w xml:id="eco_de_000094_70_0100">hohen</w>
+  <w xml:id="eco_de_000094_70_0110">Zedern</w>
+  <w xml:id="eco_de_000094_70_0120">stehen</w>
+  <pc xml:id="eco_de_000094_70_0130">,</pc>
+  <w xml:id="eco_de_000094_70_0140">Hast</w>
+  <w xml:id="eco_de_000094_70_0150">Du</w>
+  <w xml:id="eco_de_000094_70_0160">dort</w>
+  <w xml:id="eco_de_000094_70_0170">mein</w>
+  <w xml:id="eco_de_000094_70_0180">weißes</w>
+  <w xml:id="eco_de_000094_70_0190">Häuschen</w>
+  <pc xml:id="eco_de_000094_70_0200">,</pc>
+  <w xml:id="eco_de_000094_70_0210">Meinen</w>
+  <w xml:id="eco_de_000094_70_0220">dunklen</w>
+  <w xml:id="eco_de_000094_70_0230">Herrn</w>
+  <w xml:id="eco_de_000094_70_0240">gesehen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_70_0250">?</pc>
+</p>
+    <p xml:id="eco_de_000094_80"><w xml:id="eco_de_000094_80_0010">Augen</w>
+  <w xml:id="eco_de_000094_80_0020">hat</w>
+  <w xml:id="eco_de_000094_80_0030">er</w>
+  <w xml:id="eco_de_000094_80_0040">schwarz</w>
+  <w xml:id="eco_de_000094_80_0050">wie</w>
+  <w xml:id="eco_de_000094_80_0060">Kohlen</w>
+  <pc xml:id="eco_de_000094_80_0070">,</pc>
+  <w xml:id="eco_de_000094_80_0080">Und</w>
+  <w xml:id="eco_de_000094_80_0090">sein</w>
+  <w xml:id="eco_de_000094_80_0100">Bart</w>
+  <w xml:id="eco_de_000094_80_0110">ist</w>
+  <w xml:id="eco_de_000094_80_0120">dicht</w>
+  <w xml:id="eco_de_000094_80_0130">und</w>
+  <w xml:id="eco_de_000094_80_0140">lang</w>
+  <pc xml:id="eco_de_000094_80_0150">,</pc>
+  <w xml:id="eco_de_000094_80_0160">Spielend</w>
+  <w xml:id="eco_de_000094_80_0170">wie</w>
+  <w xml:id="eco_de_000094_80_0180">der</w>
+  <w xml:id="eco_de_000094_80_0190">Baum</w>
+  <w xml:id="eco_de_000094_80_0200">am</w>
+  <w xml:id="eco_de_000094_80_0210">Wasser</w>
+  <pc xml:id="eco_de_000094_80_0220">,</pc>
+  <w xml:id="eco_de_000094_80_0230">Kräftig</w>
+  <w xml:id="eco_de_000094_80_0240">ist</w>
+  <w xml:id="eco_de_000094_80_0250">sein</w>
+  <w xml:id="eco_de_000094_80_0260">Leib</w>
+  <w xml:id="eco_de_000094_80_0270">und</w>
+  <w xml:id="eco_de_000094_80_0280">schlank</w>
+  <pc unit="sentence" xml:id="eco_de_000094_80_0290">.</pc>
+</p>
+    <p xml:id="eco_de_000094_90"><w xml:id="eco_de_000094_90_0010">Und</w>
+  <w xml:id="eco_de_000094_90_0020">sein</w>
+  <w xml:id="eco_de_000094_90_0030">Roß</w>
+  <w xml:id="eco_de_000094_90_0040">ist</w>
+  <w xml:id="eco_de_000094_90_0050">so</w>
+  <w xml:id="eco_de_000094_90_0060">behende</w>
+  <pc xml:id="eco_de_000094_90_0070">,</pc>
+  <w xml:id="eco_de_000094_90_0080">So</w>
+  <w xml:id="eco_de_000094_90_0090">beweglich</w>
+  <w xml:id="eco_de_000094_90_0100">wie</w>
+  <w xml:id="eco_de_000094_90_0110">der</w>
+  <w xml:id="eco_de_000094_90_0120">Wind</w>
+  <pc xml:id="eco_de_000094_90_0130">,</pc>
+  <w xml:id="eco_de_000094_90_0140">Gürte</w>
+  <w xml:id="eco_de_000094_90_0150">Dich</w>
+  <pc xml:id="eco_de_000094_90_0160">,</pc>
+  <w xml:id="eco_de_000094_90_0170">mein</w>
+  <w xml:id="eco_de_000094_90_0180">Lüftchen</w>
+  <pc xml:id="eco_de_000094_90_0190">,</pc>
+  <w xml:id="eco_de_000094_90_0200">schwebe</w>
+  <pc xml:id="eco_de_000094_90_0210">,</pc>
+  <w xml:id="eco_de_000094_90_0220">Eile</w>
+  <w xml:id="eco_de_000094_90_0230">heimwärts</w>
+  <pc xml:id="eco_de_000094_90_0240">,</pc>
+  <w xml:id="eco_de_000094_90_0250">flieg</w>
+  <pc xml:id="eco_de_000094_90_0260">'</pc>
+  <w xml:id="eco_de_000094_90_0270">geschwind</w>
+  <pc unit="sentence" xml:id="eco_de_000094_90_0280">!</pc>
+</p>
+    <p xml:id="eco_de_000094_100"><w xml:id="eco_de_000094_100_0010">Sind</w>
+  <w xml:id="eco_de_000094_100_0020">Sie</w>
+  <w xml:id="eco_de_000094_100_0030">denn</w>
+  <w xml:id="eco_de_000094_100_0040">aus</w>
+  <w xml:id="eco_de_000094_100_0050">Asien</w>
+  <pc xml:id="eco_de_000094_100_0060">,</pc>
+  <w xml:id="eco_de_000094_100_0070">Johanna</w>
+  <pc unit="sentence" xml:id="eco_de_000094_100_0080">?</pc>
+</p>
+    <p xml:id="eco_de_000094_110"><w xml:id="eco_de_000094_110_0010">Ich</w>
+  <w xml:id="eco_de_000094_110_0020">bin</w>
+  <w xml:id="eco_de_000094_110_0030">aus</w>
+  <w xml:id="eco_de_000094_110_0040">dem</w>
+  <w xml:id="eco_de_000094_110_0050">Himmel</w>
+  <pc xml:id="eco_de_000094_110_0060">,</pc>
+  <w xml:id="eco_de_000094_110_0070">und</w>
+  <w xml:id="eco_de_000094_110_0080">bin</w>
+  <w xml:id="eco_de_000094_110_0090">ein</w>
+  <w xml:id="eco_de_000094_110_0100">verstoßenes</w>
+  <w xml:id="eco_de_000094_110_0110">Kind</w>
+  <pc unit="sentence" xml:id="eco_de_000094_110_0120">.</pc>
+  <w xml:id="eco_de_000094_110_0130">Ach</w>
+  <pc xml:id="eco_de_000094_110_0140">,</pc>
+  <w xml:id="eco_de_000094_110_0150">daß</w>
+  <w xml:id="eco_de_000094_110_0160">ich</w>
+  <w xml:id="eco_de_000094_110_0170">nicht</w>
+  <w xml:id="eco_de_000094_110_0180">sprechen</w>
+  <w xml:id="eco_de_000094_110_0190">kann</w>
+  <pc xml:id="eco_de_000094_110_0200">,</pc>
+  <w xml:id="eco_de_000094_110_0210">Niemand</w>
+  <w xml:id="eco_de_000094_110_0220">hab</w>
+  <pc xml:id="eco_de_000094_110_0230">'</pc>
+  <w xml:id="eco_de_000094_110_0240">ich</w>
+  <w xml:id="eco_de_000094_110_0250">es</w>
+  <w xml:id="eco_de_000094_110_0260">sagen</w>
+  <w xml:id="eco_de_000094_110_0270">können</w>
+  <pc xml:id="eco_de_000094_110_0280">,</pc>
+  <w xml:id="eco_de_000094_110_0290">und</w>
+  <w xml:id="eco_de_000094_110_0300">doch</w>
+  <w xml:id="eco_de_000094_110_0310">müßt</w>
+  <pc xml:id="eco_de_000094_110_0320">'</pc>
+  <w xml:id="eco_de_000094_110_0330">ich</w>
+  <w xml:id="eco_de_000094_110_0340">so</w>
+  <w xml:id="eco_de_000094_110_0350">leicht</w>
+  <w xml:id="eco_de_000094_110_0360">werden</w>
+  <pc xml:id="eco_de_000094_110_0370">,</pc>
+  <w xml:id="eco_de_000094_110_0380">wenn</w>
+  <w xml:id="eco_de_000094_110_0390">ich</w>
+  <w xml:id="eco_de_000094_110_0400">es</w>
+  <w xml:id="eco_de_000094_110_0410">einmal</w>
+  <w xml:id="eco_de_000094_110_0420">erzählen</w>
+  <w xml:id="eco_de_000094_110_0430">könnte</w>
+  <pc xml:id="eco_de_000094_110_0440">–</pc>
+  <w xml:id="eco_de_000094_110_0450">und</w>
+  <w xml:id="eco_de_000094_110_0460">ich</w>
+  <w xml:id="eco_de_000094_110_0470">will's</w>
+  <pc xml:id="eco_de_000094_110_0480">,</pc>
+  <w xml:id="eco_de_000094_110_0490">hier</w>
+  <w xml:id="eco_de_000094_110_0500">auf</w>
+  <w xml:id="eco_de_000094_110_0510">der</w>
+  <w xml:id="eco_de_000094_110_0520">stillen</w>
+  <w xml:id="eco_de_000094_110_0530">Bastion</w>
+  <w xml:id="eco_de_000094_110_0540">will</w>
+  <w xml:id="eco_de_000094_110_0550">ich</w>
+  <w xml:id="eco_de_000094_110_0560">'s</w>
+  <pc unit="sentence" xml:id="eco_de_000094_110_0570">.</pc>
+  <w xml:id="eco_de_000094_110_0580">Setzen</w>
+  <w xml:id="eco_de_000094_110_0590">wir</w>
+  <w xml:id="eco_de_000094_110_0600">uns</w>
+  <pc unit="sentence" xml:id="eco_de_000094_110_0610">.</pc>
+</p>
+    <p xml:id="eco_de_000094_120"><w xml:id="eco_de_000094_120_0010">Sie</w>
+  <w xml:id="eco_de_000094_120_0020">erzählte</w>
+  <pc unit="sentence" xml:id="eco_de_000094_120_0030">.</pc>
+</p>
+    <p xml:id="eco_de_000094_130"><w xml:id="eco_de_000094_130_0010">Von</w>
+  <w xml:id="eco_de_000094_130_0020">der</w>
+  <w xml:id="eco_de_000094_130_0030">ungarisch-polnischen</w>
+  <w xml:id="eco_de_000094_130_0040">Grenze</w>
+  <w xml:id="eco_de_000094_130_0050">war</w>
+  <w xml:id="eco_de_000094_130_0060">sie</w>
+  <w xml:id="eco_de_000094_130_0070">her</w>
+  <pc unit="sentence" xml:id="eco_de_000094_130_0080">.</pc>
+  <w xml:id="eco_de_000094_130_0090">Dort</w>
+  <w xml:id="eco_de_000094_130_0100">lebte</w>
+  <w xml:id="eco_de_000094_130_0110">vor</w>
+  <w xml:id="eco_de_000094_130_0120">manchen</w>
+  <w xml:id="eco_de_000094_130_0130">Jahren</w>
+  <w xml:id="eco_de_000094_130_0140">ein</w>
+  <w xml:id="eco_de_000094_130_0150">junger</w>
+  <w xml:id="eco_de_000094_130_0160">Hirt</w>
+  <pc xml:id="eco_de_000094_130_0170">,</pc>
+  <w xml:id="eco_de_000094_130_0180">welcher</w>
+  <w xml:id="eco_de_000094_130_0190">seines</w>
+  <w xml:id="eco_de_000094_130_0200">Herrn</w>
+  <w xml:id="eco_de_000094_130_0210">Ochsen</w>
+  <w xml:id="eco_de_000094_130_0220">hütete</w>
+  <w xml:id="eco_de_000094_130_0230">draußen</w>
+  <w xml:id="eco_de_000094_130_0240">in</w>
+  <w xml:id="eco_de_000094_130_0250">den</w>
+  <w xml:id="eco_de_000094_130_0260">weiten</w>
+  <pc xml:id="eco_de_000094_130_0270">,</pc>
+  <w xml:id="eco_de_000094_130_0280">endlosen</w>
+  <w xml:id="eco_de_000094_130_0290">Feldern</w>
+  <pc unit="sentence" xml:id="eco_de_000094_130_0300">.</pc>
+  <w xml:id="eco_de_000094_130_0310">Er</w>
+  <w xml:id="eco_de_000094_130_0320">schlief</w>
+  <w xml:id="eco_de_000094_130_0330">da</w>
+  <w xml:id="eco_de_000094_130_0340">des</w>
+  <w xml:id="eco_de_000094_130_0350">Nachts</w>
+  <w xml:id="eco_de_000094_130_0360">mit</w>
+  <w xml:id="eco_de_000094_130_0370">seinen</w>
+  <w xml:id="eco_de_000094_130_0380">Thieren</w>
+  <pc xml:id="eco_de_000094_130_0390">,</pc>
+  <w xml:id="eco_de_000094_130_0400">und</w>
+  <w xml:id="eco_de_000094_130_0410">so</w>
+  <w xml:id="eco_de_000094_130_0420">lange</w>
+  <w xml:id="eco_de_000094_130_0430">ein</w>
+  <w xml:id="eco_de_000094_130_0440">grüner</w>
+  <w xml:id="eco_de_000094_130_0450">Halm</w>
+  <w xml:id="eco_de_000094_130_0460">zu</w>
+  <w xml:id="eco_de_000094_130_0470">sehen</w>
+  <w xml:id="eco_de_000094_130_0480">war</w>
+  <pc xml:id="eco_de_000094_130_0490">,</pc>
+  <w xml:id="eco_de_000094_130_0500">sah</w>
+  <w xml:id="eco_de_000094_130_0510">er</w>
+  <w xml:id="eco_de_000094_130_0520">keinen</w>
+  <w xml:id="eco_de_000094_130_0530">Menschen</w>
+  <pc xml:id="eco_de_000094_130_0540">,</pc>
+  <w xml:id="eco_de_000094_130_0550">als</w>
+  <w xml:id="eco_de_000094_130_0560">den</w>
+  <w xml:id="eco_de_000094_130_0570">Verwalter</w>
+  <pc xml:id="eco_de_000094_130_0580">,</pc>
+  <w xml:id="eco_de_000094_130_0590">welcher</w>
+  <w xml:id="eco_de_000094_130_0600">zuweilen</w>
+  <w xml:id="eco_de_000094_130_0610">geritten</w>
+  <w xml:id="eco_de_000094_130_0620">kam</w>
+  <pc xml:id="eco_de_000094_130_0630">,</pc>
+  <w xml:id="eco_de_000094_130_0640">um</w>
+  <w xml:id="eco_de_000094_130_0650">einige</w>
+  <w xml:id="eco_de_000094_130_0660">Ochsen</w>
+  <w xml:id="eco_de_000094_130_0670">auszuwählen</w>
+  <w xml:id="eco_de_000094_130_0680">und</w>
+  <w xml:id="eco_de_000094_130_0690">ihn</w>
+  <pc xml:id="eco_de_000094_130_0700">,</pc>
+  <w xml:id="eco_de_000094_130_0710">den</w>
+  <w xml:id="eco_de_000094_130_0720">Hirten</w>
+  <pc xml:id="eco_de_000094_130_0730">,</pc>
+  <w xml:id="eco_de_000094_130_0740">mit</w>
+  <w xml:id="eco_de_000094_130_0750">der</w>
+  <w xml:id="eco_de_000094_130_0760">Peitsche</w>
+  <w xml:id="eco_de_000094_130_0770">zu</w>
+  <w xml:id="eco_de_000094_130_0780">schlagen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_130_0790">.</pc>
+  <w xml:id="eco_de_000094_130_0800">Im</w>
+  <w xml:id="eco_de_000094_130_0810">Winter</w>
+  <w xml:id="eco_de_000094_130_0820">aber</w>
+  <w xml:id="eco_de_000094_130_0830">sah</w>
+  <w xml:id="eco_de_000094_130_0840">er</w>
+  <w xml:id="eco_de_000094_130_0850">im</w>
+  <w xml:id="eco_de_000094_130_0860">Dorfe</w>
+  <w xml:id="eco_de_000094_130_0870">die</w>
+  <w xml:id="eco_de_000094_130_0880">schöne</w>
+  <w xml:id="eco_de_000094_130_0890">Veronica</w>
+  <pc xml:id="eco_de_000094_130_0900">,</pc>
+  <w xml:id="eco_de_000094_130_0910">ein</w>
+  <w xml:id="eco_de_000094_130_0920">Mädchen</w>
+  <w xml:id="eco_de_000094_130_0930">von</w>
+  <w xml:id="eco_de_000094_130_0940">15</w>
+  <w xml:id="eco_de_000094_130_0950">Jahren</w>
+  <w xml:id="eco_de_000094_130_0960">mit</w>
+  <w xml:id="eco_de_000094_130_0970">zwei</w>
+  <w xml:id="eco_de_000094_130_0980">Augen</w>
+  <w xml:id="eco_de_000094_130_0990">voller</w>
+  <w xml:id="eco_de_000094_130_1000">Musik</w>
+  <pc unit="sentence" xml:id="eco_de_000094_130_1010">.</pc>
+  <w xml:id="eco_de_000094_130_1020">Veronica</w>
+  <w xml:id="eco_de_000094_130_1030">war</w>
+  <w xml:id="eco_de_000094_130_1040">ihm</w>
+  <w xml:id="eco_de_000094_130_1050">gewogen</w>
+  <pc xml:id="eco_de_000094_130_1060">,</pc>
+  <w xml:id="eco_de_000094_130_1070">und</w>
+  <w xml:id="eco_de_000094_130_1080">er</w>
+  <w xml:id="eco_de_000094_130_1090">traf</w>
+  <w xml:id="eco_de_000094_130_1100">sie</w>
+  <w xml:id="eco_de_000094_130_1110">manchmal</w>
+  <w xml:id="eco_de_000094_130_1120">des</w>
+  <w xml:id="eco_de_000094_130_1130">Abends</w>
+  <w xml:id="eco_de_000094_130_1140">hinter</w>
+  <w xml:id="eco_de_000094_130_1150">dem</w>
+  <w xml:id="eco_de_000094_130_1160">Ochsenstalle</w>
+  <pc unit="sentence" xml:id="eco_de_000094_130_1170">.</pc>
+</p>
+    <p xml:id="eco_de_000094_140"><w xml:id="eco_de_000094_140_0010">Es</w>
+  <w xml:id="eco_de_000094_140_0020">war</w>
+  <w xml:id="eco_de_000094_140_0030">ein</w>
+  <w xml:id="eco_de_000094_140_0040">sehr</w>
+  <w xml:id="eco_de_000094_140_0050">glücklicher</w>
+  <w xml:id="eco_de_000094_140_0060">Winter</w>
+  <w xml:id="eco_de_000094_140_0070">gewesen</w>
+  <pc xml:id="eco_de_000094_140_0080">,</pc>
+  <w xml:id="eco_de_000094_140_0090">obwohl</w>
+  <w xml:id="eco_de_000094_140_0100">der</w>
+  <w xml:id="eco_de_000094_140_0110">Hirt</w>
+  <w xml:id="eco_de_000094_140_0120">mehr</w>
+  <w xml:id="eco_de_000094_140_0130">Prügel</w>
+  <w xml:id="eco_de_000094_140_0140">gekriegt</w>
+  <w xml:id="eco_de_000094_140_0150">hatte</w>
+  <pc xml:id="eco_de_000094_140_0160">,</pc>
+  <w xml:id="eco_de_000094_140_0170">als</w>
+  <w xml:id="eco_de_000094_140_0180">sonst</w>
+  <pc xml:id="eco_de_000094_140_0190">–</pc>
+  <w xml:id="eco_de_000094_140_0200">in</w>
+  <w xml:id="eco_de_000094_140_0210">einer</w>
+  <w xml:id="eco_de_000094_140_0220">lichten</w>
+  <w xml:id="eco_de_000094_140_0230">Nacht</w>
+  <w xml:id="eco_de_000094_140_0240">standen</w>
+  <w xml:id="eco_de_000094_140_0250">sie</w>
+  <w xml:id="eco_de_000094_140_0260">wieder</w>
+  <w xml:id="eco_de_000094_140_0270">am</w>
+  <w xml:id="eco_de_000094_140_0280">Stalle</w>
+  <pc xml:id="eco_de_000094_140_0290">,</pc>
+  <w xml:id="eco_de_000094_140_0300">und</w>
+  <w xml:id="eco_de_000094_140_0310">genossen</w>
+  <w xml:id="eco_de_000094_140_0320">schweigend</w>
+  <w xml:id="eco_de_000094_140_0330">ihr</w>
+  <w xml:id="eco_de_000094_140_0340">Glück</w>
+  <pc xml:id="eco_de_000094_140_0350">;</pc>
+  <w xml:id="eco_de_000094_140_0360">da</w>
+  <w xml:id="eco_de_000094_140_0370">stieg</w>
+  <w xml:id="eco_de_000094_140_0380">eine</w>
+  <w xml:id="eco_de_000094_140_0390">Lerche</w>
+  <w xml:id="eco_de_000094_140_0400">neben</w>
+  <w xml:id="eco_de_000094_140_0410">ihnen</w>
+  <w xml:id="eco_de_000094_140_0420">in</w>
+  <w xml:id="eco_de_000094_140_0430">die</w>
+  <w xml:id="eco_de_000094_140_0440">Höhe</w>
+  <pc unit="sentence" xml:id="eco_de_000094_140_0450">.</pc>
+</p>
+    <p xml:id="eco_de_000094_150"><w xml:id="eco_de_000094_150_0010">O</w>
+  <w xml:id="eco_de_000094_150_0020">heilige</w>
+  <w xml:id="eco_de_000094_150_0030">Jungfrau</w>
+  <pc xml:id="eco_de_000094_150_0040">,</pc>
+  <w xml:id="eco_de_000094_150_0050">klagte</w>
+  <w xml:id="eco_de_000094_150_0060">der</w>
+  <w xml:id="eco_de_000094_150_0070">Hirt</w>
+  <pc xml:id="eco_de_000094_150_0080">,</pc>
+  <w xml:id="eco_de_000094_150_0090">hörst</w>
+  <w xml:id="eco_de_000094_150_0100">Du</w>
+  <w xml:id="eco_de_000094_150_0110">Veronika</w>
+  <pc xml:id="eco_de_000094_150_0120">,</pc>
+  <w xml:id="eco_de_000094_150_0130">die</w>
+  <w xml:id="eco_de_000094_150_0140">Lerche</w>
+  <w xml:id="eco_de_000094_150_0150">ist</w>
+  <w xml:id="eco_de_000094_150_0160">da</w>
+  <pc xml:id="eco_de_000094_150_0170">,</pc>
+  <w xml:id="eco_de_000094_150_0180">nun</w>
+  <w xml:id="eco_de_000094_150_0190">muß</w>
+  <w xml:id="eco_de_000094_150_0200">ich</w>
+  <w xml:id="eco_de_000094_150_0210">hinaus</w>
+  <w xml:id="eco_de_000094_150_0220">auf</w>
+  <w xml:id="eco_de_000094_150_0230">die</w>
+  <w xml:id="eco_de_000094_150_0240">Wiesen</w>
+  <pc xml:id="eco_de_000094_150_0250">,</pc>
+  <w xml:id="eco_de_000094_150_0260">und</w>
+  <w xml:id="eco_de_000094_150_0270">der</w>
+  <w xml:id="eco_de_000094_150_0280">Sommer</w>
+  <w xml:id="eco_de_000094_150_0290">ist</w>
+  <w xml:id="eco_de_000094_150_0300">lang</w>
+  <pc unit="sentence" xml:id="eco_de_000094_150_0310">!</pc>
+</p>
+    <p xml:id="eco_de_000094_160"><w xml:id="eco_de_000094_160_0010">Sie</w>
+  <w xml:id="eco_de_000094_160_0020">faßten</w>
+  <w xml:id="eco_de_000094_160_0030">sich</w>
+  <w xml:id="eco_de_000094_160_0040">ein</w>
+  <w xml:id="eco_de_000094_160_0050">Herz</w>
+  <pc xml:id="eco_de_000094_160_0060">,</pc>
+  <w xml:id="eco_de_000094_160_0070">und</w>
+  <w xml:id="eco_de_000094_160_0080">gingen</w>
+  <w xml:id="eco_de_000094_160_0090">des</w>
+  <w xml:id="eco_de_000094_160_0100">Morgens</w>
+  <w xml:id="eco_de_000094_160_0110">zum</w>
+  <w xml:id="eco_de_000094_160_0120">Herrn</w>
+  <pc xml:id="eco_de_000094_160_0130">,</pc>
+  <w xml:id="eco_de_000094_160_0140">und</w>
+  <w xml:id="eco_de_000094_160_0150">baten</w>
+  <w xml:id="eco_de_000094_160_0160">ihn</w>
+  <pc xml:id="eco_de_000094_160_0170">,</pc>
+  <w xml:id="eco_de_000094_160_0180">sich</w>
+  <w xml:id="eco_de_000094_160_0190">heirathen</w>
+  <w xml:id="eco_de_000094_160_0200">zu</w>
+  <w xml:id="eco_de_000094_160_0210">dürfen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_160_0220">.</pc>
+  <w xml:id="eco_de_000094_160_0230">Der</w>
+  <w xml:id="eco_de_000094_160_0240">Herr</w>
+  <w xml:id="eco_de_000094_160_0250">war</w>
+  <w xml:id="eco_de_000094_160_0260">ein</w>
+  <w xml:id="eco_de_000094_160_0270">junger</w>
+  <pc xml:id="eco_de_000094_160_0280">,</pc>
+  <w xml:id="eco_de_000094_160_0290">schöner</w>
+  <w xml:id="eco_de_000094_160_0300">Herr</w>
+  <pc xml:id="eco_de_000094_160_0310">,</pc>
+  <w xml:id="eco_de_000094_160_0320">und</w>
+  <w xml:id="eco_de_000094_160_0330">lachte</w>
+  <pc xml:id="eco_de_000094_160_0340">,</pc>
+  <w xml:id="eco_de_000094_160_0350">und</w>
+  <w xml:id="eco_de_000094_160_0360">ließ</w>
+  <w xml:id="eco_de_000094_160_0370">den</w>
+  <w xml:id="eco_de_000094_160_0380">Priester</w>
+  <w xml:id="eco_de_000094_160_0390">rufen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_160_0400">.</pc>
+  <w xml:id="eco_de_000094_160_0410">Als</w>
+  <w xml:id="eco_de_000094_160_0420">dieser</w>
+  <w xml:id="eco_de_000094_160_0430">sie</w>
+  <w xml:id="eco_de_000094_160_0440">kopulirt</w>
+  <w xml:id="eco_de_000094_160_0450">hatte</w>
+  <pc xml:id="eco_de_000094_160_0460">,</pc>
+  <w xml:id="eco_de_000094_160_0470">trat</w>
+  <w xml:id="eco_de_000094_160_0480">der</w>
+  <w xml:id="eco_de_000094_160_0490">Verwalter</w>
+  <w xml:id="eco_de_000094_160_0500">ein</w>
+  <pc xml:id="eco_de_000094_160_0510">,</pc>
+  <w xml:id="eco_de_000094_160_0520">und</w>
+  <w xml:id="eco_de_000094_160_0530">sagte</w>
+  <pc xml:id="eco_de_000094_160_0540">:</pc>
+  <w xml:id="eco_de_000094_160_0550">Allergnädigster</w>
+  <w xml:id="eco_de_000094_160_0560">Herr</w>
+  <pc xml:id="eco_de_000094_160_0570">,</pc>
+  <w xml:id="eco_de_000094_160_0580">heut</w>
+  <pc xml:id="eco_de_000094_160_0590">'</pc>
+  <w xml:id="eco_de_000094_160_0600">Morgen</w>
+  <w xml:id="eco_de_000094_160_0610">hat</w>
+  <w xml:id="eco_de_000094_160_0620">die</w>
+  <w xml:id="eco_de_000094_160_0630">Lerche</w>
+  <w xml:id="eco_de_000094_160_0640">gesungen</w>
+  <pc xml:id="eco_de_000094_160_0650">,</pc>
+  <w xml:id="eco_de_000094_160_0660">das</w>
+  <w xml:id="eco_de_000094_160_0670">Vieh</w>
+  <w xml:id="eco_de_000094_160_0680">muß</w>
+  <w xml:id="eco_de_000094_160_0690">auf</w>
+  <w xml:id="eco_de_000094_160_0700">die</w>
+  <w xml:id="eco_de_000094_160_0710">Weiden</w>
+  <pc unit="sentence" xml:id="eco_de_000094_160_0720">.</pc>
+  <w xml:id="eco_de_000094_160_0730">Der</w>
+  <w xml:id="eco_de_000094_160_0740">Hirt</w>
+  <w xml:id="eco_de_000094_160_0750">behielt</w>
+  <w xml:id="eco_de_000094_160_0760">nicht</w>
+  <w xml:id="eco_de_000094_160_0770">so</w>
+  <w xml:id="eco_de_000094_160_0780">viel</w>
+  <w xml:id="eco_de_000094_160_0790">Zeit</w>
+  <pc xml:id="eco_de_000094_160_0800">,</pc>
+  <w xml:id="eco_de_000094_160_0810">Veronica</w>
+  <w xml:id="eco_de_000094_160_0820">zu</w>
+  <w xml:id="eco_de_000094_160_0830">küssen</w>
+  <pc xml:id="eco_de_000094_160_0840">,</pc>
+  <w xml:id="eco_de_000094_160_0850">und</w>
+  <w xml:id="eco_de_000094_160_0860">mußte</w>
+  <w xml:id="eco_de_000094_160_0870">hinaus</w>
+  <pc unit="sentence" xml:id="eco_de_000094_160_0880">.</pc>
+</p>
+    <p xml:id="eco_de_000094_170"><w xml:id="eco_de_000094_170_0010">Es</w>
+  <w xml:id="eco_de_000094_170_0020">soll</w>
+  <w xml:id="eco_de_000094_170_0030">Deinem</w>
+  <w xml:id="eco_de_000094_170_0040">Weibe</w>
+  <w xml:id="eco_de_000094_170_0050">gut</w>
+  <w xml:id="eco_de_000094_170_0060">gehen</w>
+  <pc xml:id="eco_de_000094_170_0070">,</pc>
+  <w xml:id="eco_de_000094_170_0080">sagte</w>
+  <w xml:id="eco_de_000094_170_0090">der</w>
+  <w xml:id="eco_de_000094_170_0100">Herr</w>
+  <pc xml:id="eco_de_000094_170_0110">,</pc>
+  <w xml:id="eco_de_000094_170_0120">sie</w>
+  <w xml:id="eco_de_000094_170_0130">kann</w>
+  <w xml:id="eco_de_000094_170_0140">im</w>
+  <w xml:id="eco_de_000094_170_0150">Schlosse</w>
+  <w xml:id="eco_de_000094_170_0160">wohnen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_170_0170">.</pc>
+</p>
+    <p xml:id="eco_de_000094_180"><w xml:id="eco_de_000094_180_0010">Der</w>
+  <w xml:id="eco_de_000094_180_0020">Sommer</w>
+  <w xml:id="eco_de_000094_180_0030">war</w>
+  <w xml:id="eco_de_000094_180_0040">sehr</w>
+  <w xml:id="eco_de_000094_180_0050">lang</w>
+  <pc xml:id="eco_de_000094_180_0060">,</pc>
+  <w xml:id="eco_de_000094_180_0070">und</w>
+  <w xml:id="eco_de_000094_180_0080">da</w>
+  <w xml:id="eco_de_000094_180_0090">Veronica</w>
+  <w xml:id="eco_de_000094_180_0100">sehr</w>
+  <w xml:id="eco_de_000094_180_0110">schön</w>
+  <w xml:id="eco_de_000094_180_0120">war</w>
+  <pc xml:id="eco_de_000094_180_0130">,</pc>
+  <w xml:id="eco_de_000094_180_0140">so</w>
+  <w xml:id="eco_de_000094_180_0150">hatte</w>
+  <w xml:id="eco_de_000094_180_0160">der</w>
+  <w xml:id="eco_de_000094_180_0170">Hirt</w>
+  <w xml:id="eco_de_000094_180_0180">viel</w>
+  <w xml:id="eco_de_000094_180_0190">zu</w>
+  <w xml:id="eco_de_000094_180_0200">weinen</w>
+  <pc xml:id="eco_de_000094_180_0210">;</pc>
+  <w xml:id="eco_de_000094_180_0220">denn</w>
+  <w xml:id="eco_de_000094_180_0230">er</w>
+  <w xml:id="eco_de_000094_180_0240">wußte</w>
+  <w xml:id="eco_de_000094_180_0250">es</w>
+  <w xml:id="eco_de_000094_180_0260">schon</w>
+  <w xml:id="eco_de_000094_180_0270">im</w>
+  <w xml:id="eco_de_000094_180_0280">Frühjahr</w>
+  <pc xml:id="eco_de_000094_180_0290">,</pc>
+  <w xml:id="eco_de_000094_180_0300">daß</w>
+  <w xml:id="eco_de_000094_180_0310">es</w>
+  <w xml:id="eco_de_000094_180_0320">einen</w>
+  <w xml:id="eco_de_000094_180_0330">schlechten</w>
+  <w xml:id="eco_de_000094_180_0340">Winter</w>
+  <w xml:id="eco_de_000094_180_0350">geben</w>
+  <w xml:id="eco_de_000094_180_0360">würde</w>
+  <w xml:id="eco_de_000094_180_0370">dieses</w>
+  <w xml:id="eco_de_000094_180_0380">Jahr</w>
+  <pc xml:id="eco_de_000094_180_0390">,</pc>
+  <w xml:id="eco_de_000094_180_0400">der</w>
+  <w xml:id="eco_de_000094_180_0410">junge</w>
+  <w xml:id="eco_de_000094_180_0420">Herr</w>
+  <w xml:id="eco_de_000094_180_0430">war</w>
+  <w xml:id="eco_de_000094_180_0440">zu</w>
+  <w xml:id="eco_de_000094_180_0450">hübsch</w>
+  <w xml:id="eco_de_000094_180_0460">und</w>
+  <w xml:id="eco_de_000094_180_0470">hatte</w>
+  <w xml:id="eco_de_000094_180_0480">zu</w>
+  <w xml:id="eco_de_000094_180_0490">schnell</w>
+  <w xml:id="eco_de_000094_180_0500">gelacht</w>
+  <pc unit="sentence" xml:id="eco_de_000094_180_0510">.</pc>
+  <w xml:id="eco_de_000094_180_0520">Was</w>
+  <w xml:id="eco_de_000094_180_0530">kann</w>
+  <w xml:id="eco_de_000094_180_0540">man</w>
+  <w xml:id="eco_de_000094_180_0550">aber</w>
+  <w xml:id="eco_de_000094_180_0560">weinen</w>
+  <w xml:id="eco_de_000094_180_0570">vom</w>
+  <w xml:id="eco_de_000094_180_0580">Georgen-</w>
+  <w xml:id="eco_de_000094_180_0590">bis</w>
+  <w xml:id="eco_de_000094_180_0600">zum</w>
+  <w xml:id="eco_de_000094_180_0610">Michaelistage</w>
+  <pc unit="sentence" xml:id="eco_de_000094_180_0620">!</pc>
+</p>
+    <p xml:id="eco_de_000094_190"><w xml:id="eco_de_000094_190_0010">Er</w>
+  <w xml:id="eco_de_000094_190_0020">hat</w>
+  <w xml:id="eco_de_000094_190_0030">auch</w>
+  <w xml:id="eco_de_000094_190_0040">den</w>
+  <w xml:id="eco_de_000094_190_0050">nächsten</w>
+  <w xml:id="eco_de_000094_190_0060">Winter</w>
+  <w xml:id="eco_de_000094_190_0070">geweint</w>
+  <pc xml:id="eco_de_000094_190_0080">,</pc>
+  <w xml:id="eco_de_000094_190_0090">und</w>
+  <w xml:id="eco_de_000094_190_0100">hat</w>
+  <w xml:id="eco_de_000094_190_0110">sich</w>
+  <w xml:id="eco_de_000094_190_0120">nicht</w>
+  <w xml:id="eco_de_000094_190_0130">einmal</w>
+  <w xml:id="eco_de_000094_190_0140">freuen</w>
+  <w xml:id="eco_de_000094_190_0150">können</w>
+  <pc xml:id="eco_de_000094_190_0160">,</pc>
+  <w xml:id="eco_de_000094_190_0170">als</w>
+  <w xml:id="eco_de_000094_190_0180">er</w>
+  <w xml:id="eco_de_000094_190_0190">hörte</w>
+  <pc xml:id="eco_de_000094_190_0200">,</pc>
+  <w xml:id="eco_de_000094_190_0210">Veronica</w>
+  <w xml:id="eco_de_000094_190_0220">habe</w>
+  <w xml:id="eco_de_000094_190_0230">im</w>
+  <w xml:id="eco_de_000094_190_0240">Schlosse</w>
+  <w xml:id="eco_de_000094_190_0250">ein</w>
+  <w xml:id="eco_de_000094_190_0260">Mädchen</w>
+  <w xml:id="eco_de_000094_190_0270">geboren</w>
+  <pc xml:id="eco_de_000094_190_0280">,</pc>
+  <w xml:id="eco_de_000094_190_0290">und</w>
+  <w xml:id="eco_de_000094_190_0300">zwar</w>
+  <w xml:id="eco_de_000094_190_0310">ein</w>
+  <w xml:id="eco_de_000094_190_0320">schönes</w>
+  <w xml:id="eco_de_000094_190_0330">Mädchen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_190_0340">.</pc>
+</p>
+    <p xml:id="eco_de_000094_200"><w xml:id="eco_de_000094_200_0010">Das</w>
+  <w xml:id="eco_de_000094_200_0020">Mädchen</w>
+  <w xml:id="eco_de_000094_200_0030">wuchs</w>
+  <w xml:id="eco_de_000094_200_0040">auf</w>
+  <pc xml:id="eco_de_000094_200_0050">,</pc>
+  <w xml:id="eco_de_000094_200_0060">Veronica</w>
+  <w xml:id="eco_de_000094_200_0070">aber</w>
+  <w xml:id="eco_de_000094_200_0080">und</w>
+  <w xml:id="eco_de_000094_200_0090">der</w>
+  <w xml:id="eco_de_000094_200_0100">Hirt</w>
+  <w xml:id="eco_de_000094_200_0110">gingen</w>
+  <w xml:id="eco_de_000094_200_0120">zu</w>
+  <w xml:id="eco_de_000094_200_0130">Grunde</w>
+  <pc xml:id="eco_de_000094_200_0140">;</pc>
+  <w xml:id="eco_de_000094_200_0150">denn</w>
+  <w xml:id="eco_de_000094_200_0160">Schönheit</w>
+  <w xml:id="eco_de_000094_200_0170">währt</w>
+  <w xml:id="eco_de_000094_200_0180">nicht</w>
+  <w xml:id="eco_de_000094_200_0190">ewig</w>
+  <w xml:id="eco_de_000094_200_0200">und</w>
+  <w xml:id="eco_de_000094_200_0210">die</w>
+  <w xml:id="eco_de_000094_200_0220">Gunst</w>
+  <w xml:id="eco_de_000094_200_0230">ist</w>
+  <w xml:id="eco_de_000094_200_0240">wechselnd</w>
+  <w xml:id="eco_de_000094_200_0250">wie</w>
+  <w xml:id="eco_de_000094_200_0260">der</w>
+  <w xml:id="eco_de_000094_200_0270">Wind</w>
+  <w xml:id="eco_de_000094_200_0280">auf</w>
+  <w xml:id="eco_de_000094_200_0290">den</w>
+  <w xml:id="eco_de_000094_200_0300">Feldern</w>
+  <pc unit="sentence" xml:id="eco_de_000094_200_0310">.</pc>
+</p>
+    <p xml:id="eco_de_000094_210"><w xml:id="eco_de_000094_210_0010">Nur</w>
+  <w xml:id="eco_de_000094_210_0020">die</w>
+  <w xml:id="eco_de_000094_210_0030">kleine</w>
+  <w xml:id="eco_de_000094_210_0040">Johanna</w>
+  <w xml:id="eco_de_000094_210_0050">wurde</w>
+  <w xml:id="eco_de_000094_210_0060">im</w>
+  <w xml:id="eco_de_000094_210_0070">Schlosse</w>
+  <w xml:id="eco_de_000094_210_0080">behalten</w>
+  <pc xml:id="eco_de_000094_210_0090">,</pc>
+  <w xml:id="eco_de_000094_210_0100">weil</w>
+  <w xml:id="eco_de_000094_210_0110">sie</w>
+  <w xml:id="eco_de_000094_210_0120">gar</w>
+  <w xml:id="eco_de_000094_210_0130">zu</w>
+  <w xml:id="eco_de_000094_210_0140">hübsch</w>
+  <w xml:id="eco_de_000094_210_0150">war</w>
+  <pc xml:id="eco_de_000094_210_0160">,</pc>
+  <w xml:id="eco_de_000094_210_0170">und</w>
+  <w xml:id="eco_de_000094_210_0180">der</w>
+  <w xml:id="eco_de_000094_210_0190">Herr</w>
+  <w xml:id="eco_de_000094_210_0200">sie</w>
+  <w xml:id="eco_de_000094_210_0210">leiden</w>
+  <w xml:id="eco_de_000094_210_0220">mochte</w>
+  <pc xml:id="eco_de_000094_210_0230">;</pc>
+  <w xml:id="eco_de_000094_210_0240">der</w>
+  <w xml:id="eco_de_000094_210_0250">Hauskaplan</w>
+  <w xml:id="eco_de_000094_210_0260">gab</w>
+  <w xml:id="eco_de_000094_210_0270">ihr</w>
+  <w xml:id="eco_de_000094_210_0280">Unterricht</w>
+  <w xml:id="eco_de_000094_210_0290">mit</w>
+  <w xml:id="eco_de_000094_210_0300">dem</w>
+  <w xml:id="eco_de_000094_210_0310">Sohne</w>
+  <w xml:id="eco_de_000094_210_0320">des</w>
+  <w xml:id="eco_de_000094_210_0330">Herrn</w>
+  <pc xml:id="eco_de_000094_210_0340">,</pc>
+  <w xml:id="eco_de_000094_210_0350">und</w>
+  <w xml:id="eco_de_000094_210_0360">sie</w>
+  <w xml:id="eco_de_000094_210_0370">lernte</w>
+  <w xml:id="eco_de_000094_210_0380">Mancherlei</w>
+  <pc xml:id="eco_de_000094_210_0390">,</pc>
+  <w xml:id="eco_de_000094_210_0400">auch</w>
+  <w xml:id="eco_de_000094_210_0410">eine</w>
+  <w xml:id="eco_de_000094_210_0420">große</w>
+  <w xml:id="eco_de_000094_210_0430">Zärtlichkeit</w>
+  <w xml:id="eco_de_000094_210_0440">für</w>
+  <w xml:id="eco_de_000094_210_0450">Stephan</w>
+  <pc xml:id="eco_de_000094_210_0460">,</pc>
+  <w xml:id="eco_de_000094_210_0470">den</w>
+  <w xml:id="eco_de_000094_210_0480">jungen</w>
+  <w xml:id="eco_de_000094_210_0490">Erben</w>
+  <pc unit="sentence" xml:id="eco_de_000094_210_0500">.</pc>
+  <w xml:id="eco_de_000094_210_0510">Stephan</w>
+  <pc xml:id="eco_de_000094_210_0520">,</pc>
+  <w xml:id="eco_de_000094_210_0530">erwiderte</w>
+  <w xml:id="eco_de_000094_210_0540">sie</w>
+  <pc xml:id="eco_de_000094_210_0550">,</pc>
+  <w xml:id="eco_de_000094_210_0560">und</w>
+  <w xml:id="eco_de_000094_210_0570">Beide</w>
+  <w xml:id="eco_de_000094_210_0580">wären</w>
+  <w xml:id="eco_de_000094_210_0590">sehr</w>
+  <w xml:id="eco_de_000094_210_0600">glücklich</w>
+  <w xml:id="eco_de_000094_210_0610">gewesen</w>
+  <pc xml:id="eco_de_000094_210_0620">,</pc>
+  <w xml:id="eco_de_000094_210_0630">wenn</w>
+  <w xml:id="eco_de_000094_210_0640">die</w>
+  <w xml:id="eco_de_000094_210_0650">gnädige</w>
+  <w xml:id="eco_de_000094_210_0660">Frau</w>
+  <pc xml:id="eco_de_000094_210_0670">,</pc>
+  <w xml:id="eco_de_000094_210_0680">die</w>
+  <w xml:id="eco_de_000094_210_0690">Mutter</w>
+  <w xml:id="eco_de_000094_210_0700">Stephans</w>
+  <pc xml:id="eco_de_000094_210_0710">,</pc>
+  <w xml:id="eco_de_000094_210_0720">gnädiger</w>
+  <w xml:id="eco_de_000094_210_0730">zugesehen</w>
+  <w xml:id="eco_de_000094_210_0740">hätte</w>
+  <pc unit="sentence" xml:id="eco_de_000094_210_0750">.</pc>
+  <w xml:id="eco_de_000094_210_0760">Die</w>
+  <w xml:id="eco_de_000094_210_0770">aber</w>
+  <w xml:id="eco_de_000094_210_0780">war</w>
+  <w xml:id="eco_de_000094_210_0790">eine</w>
+  <w xml:id="eco_de_000094_210_0800">stolze</w>
+  <w xml:id="eco_de_000094_210_0810">Dame</w>
+  <w xml:id="eco_de_000094_210_0820">aus</w>
+  <w xml:id="eco_de_000094_210_0830">der</w>
+  <w xml:id="eco_de_000094_210_0840">Trentsyner</w>
+  <w xml:id="eco_de_000094_210_0850">Gespannschaft</w>
+  <w xml:id="eco_de_000094_210_0860">vom</w>
+  <w xml:id="eco_de_000094_210_0870">Matynschfelde</w>
+  <pc xml:id="eco_de_000094_210_0880">,</pc>
+  <w xml:id="eco_de_000094_210_0890">welche</w>
+  <w xml:id="eco_de_000094_210_0900">die</w>
+  <w xml:id="eco_de_000094_210_0910">Johanna</w>
+  <w xml:id="eco_de_000094_210_0920">nicht</w>
+  <w xml:id="eco_de_000094_210_0930">leiden</w>
+  <w xml:id="eco_de_000094_210_0940">mochte</w>
+  <pc xml:id="eco_de_000094_210_0950">,</pc>
+  <w xml:id="eco_de_000094_210_0960">und</w>
+  <w xml:id="eco_de_000094_210_0970">öfters</w>
+  <w xml:id="eco_de_000094_210_0980">auf</w>
+  <w xml:id="eco_de_000094_210_0990">die</w>
+  <w xml:id="eco_de_000094_210_1000">rothen</w>
+  <w xml:id="eco_de_000094_210_1010">Backen</w>
+  <w xml:id="eco_de_000094_210_1020">schlug</w>
+  <pc unit="sentence" xml:id="eco_de_000094_210_1030">.</pc>
+</p>
+    <p xml:id="eco_de_000094_220"><w xml:id="eco_de_000094_220_0010">Eines</w>
+  <w xml:id="eco_de_000094_220_0020">Tages</w>
+  <w xml:id="eco_de_000094_220_0030">brachten</w>
+  <w xml:id="eco_de_000094_220_0040">sie</w>
+  <w xml:id="eco_de_000094_220_0050">den</w>
+  <w xml:id="eco_de_000094_220_0060">Herrn</w>
+  <pc xml:id="eco_de_000094_220_0070">,</pc>
+  <w xml:id="eco_de_000094_220_0080">Stephans</w>
+  <w xml:id="eco_de_000094_220_0090">Vater</w>
+  <pc xml:id="eco_de_000094_220_0100">,</pc>
+  <w xml:id="eco_de_000094_220_0110">aus</w>
+  <w xml:id="eco_de_000094_220_0120">dem</w>
+  <w xml:id="eco_de_000094_220_0130">Walde</w>
+  <pc xml:id="eco_de_000094_220_0140">,</pc>
+  <w xml:id="eco_de_000094_220_0150">wo</w>
+  <w xml:id="eco_de_000094_220_0160">man</w>
+  <w xml:id="eco_de_000094_220_0170">ihn</w>
+  <w xml:id="eco_de_000094_220_0180">an</w>
+  <w xml:id="eco_de_000094_220_0190">der</w>
+  <w xml:id="eco_de_000094_220_0200">Erde</w>
+  <w xml:id="eco_de_000094_220_0210">gefunden</w>
+  <w xml:id="eco_de_000094_220_0220">hatte</w>
+  <pc xml:id="eco_de_000094_220_0230">;</pc>
+  <w xml:id="eco_de_000094_220_0240">sein</w>
+  <w xml:id="eco_de_000094_220_0250">schöner</w>
+  <w xml:id="eco_de_000094_220_0260">rother</w>
+  <w xml:id="eco_de_000094_220_0270">Hengst</w>
+  <w xml:id="eco_de_000094_220_0280">ging</w>
+  <w xml:id="eco_de_000094_220_0290">traurig</w>
+  <w xml:id="eco_de_000094_220_0300">neben</w>
+  <w xml:id="eco_de_000094_220_0310">dem</w>
+  <w xml:id="eco_de_000094_220_0320">kleinen</w>
+  <w xml:id="eco_de_000094_220_0330">Fuhrwerke</w>
+  <w xml:id="eco_de_000094_220_0340">her</w>
+  <pc unit="sentence" xml:id="eco_de_000094_220_0350">.</pc>
+  <w xml:id="eco_de_000094_220_0360">Der</w>
+  <w xml:id="eco_de_000094_220_0370">alte</w>
+  <w xml:id="eco_de_000094_220_0380">Herr</w>
+  <w xml:id="eco_de_000094_220_0390">war</w>
+  <w xml:id="eco_de_000094_220_0400">nämlich</w>
+  <w xml:id="eco_de_000094_220_0410">erschlagen</w>
+  <pc xml:id="eco_de_000094_220_0420">,</pc>
+  <w xml:id="eco_de_000094_220_0430">obwohl</w>
+  <w xml:id="eco_de_000094_220_0440">er</w>
+  <w xml:id="eco_de_000094_220_0450">eigentlich</w>
+  <w xml:id="eco_de_000094_220_0460">noch</w>
+  <w xml:id="eco_de_000094_220_0470">kein</w>
+  <w xml:id="eco_de_000094_220_0480">alter</w>
+  <w xml:id="eco_de_000094_220_0490">Herr</w>
+  <w xml:id="eco_de_000094_220_0500">war</w>
+  <pc xml:id="eco_de_000094_220_0510">,</pc>
+  <w xml:id="eco_de_000094_220_0520">und</w>
+  <w xml:id="eco_de_000094_220_0530">Stephans</w>
+  <w xml:id="eco_de_000094_220_0540">Mutter</w>
+  <w xml:id="eco_de_000094_220_0550">übernahm</w>
+  <w xml:id="eco_de_000094_220_0560">die</w>
+  <w xml:id="eco_de_000094_220_0570">Herrschaft</w>
+  <w xml:id="eco_de_000094_220_0580">unterdeß</w>
+  <pc xml:id="eco_de_000094_220_0590">,</pc>
+  <w xml:id="eco_de_000094_220_0600">weil</w>
+  <w xml:id="eco_de_000094_220_0610">Stephan</w>
+  <w xml:id="eco_de_000094_220_0620">erst</w>
+  <w xml:id="eco_de_000094_220_0630">fünfzehn</w>
+  <w xml:id="eco_de_000094_220_0640">Jahre</w>
+  <w xml:id="eco_de_000094_220_0650">zählte</w>
+  <pc unit="sentence" xml:id="eco_de_000094_220_0660">.</pc>
+</p>
+    <p xml:id="eco_de_000094_230"><w xml:id="eco_de_000094_230_0010">Am</w>
+  <w xml:id="eco_de_000094_230_0020">Begräbnißtage</w>
+  <w xml:id="eco_de_000094_230_0030">nahm</w>
+  <w xml:id="eco_de_000094_230_0040">die</w>
+  <w xml:id="eco_de_000094_230_0050">Dame</w>
+  <w xml:id="eco_de_000094_230_0060">vom</w>
+  <w xml:id="eco_de_000094_230_0070">Matynschfelde</w>
+  <w xml:id="eco_de_000094_230_0080">Johanna</w>
+  <w xml:id="eco_de_000094_230_0090">bei</w>
+  <w xml:id="eco_de_000094_230_0100">der</w>
+  <w xml:id="eco_de_000094_230_0110">Schulter</w>
+  <pc xml:id="eco_de_000094_230_0120">,</pc>
+  <w xml:id="eco_de_000094_230_0130">und</w>
+  <w xml:id="eco_de_000094_230_0140">sagte</w>
+  <pc xml:id="eco_de_000094_230_0150">,</pc>
+  <w xml:id="eco_de_000094_230_0160">sie</w>
+  <w xml:id="eco_de_000094_230_0170">solle</w>
+  <w xml:id="eco_de_000094_230_0180">machen</w>
+  <pc xml:id="eco_de_000094_230_0190">,</pc>
+  <w xml:id="eco_de_000094_230_0200">daß</w>
+  <w xml:id="eco_de_000094_230_0210">sie</w>
+  <w xml:id="eco_de_000094_230_0220">fortkomme</w>
+  <pc xml:id="eco_de_000094_230_0230">,</pc>
+  <w xml:id="eco_de_000094_230_0240">und</w>
+  <w xml:id="eco_de_000094_230_0250">sich</w>
+  <w xml:id="eco_de_000094_230_0260">nie</w>
+  <w xml:id="eco_de_000094_230_0270">wieder</w>
+  <w xml:id="eco_de_000094_230_0280">auf</w>
+  <w xml:id="eco_de_000094_230_0290">dem</w>
+  <w xml:id="eco_de_000094_230_0300">Hofe</w>
+  <w xml:id="eco_de_000094_230_0310">sehen</w>
+  <w xml:id="eco_de_000094_230_0320">lassen</w>
+  <pc xml:id="eco_de_000094_230_0330">,</pc>
+  <w xml:id="eco_de_000094_230_0340">wenn</w>
+  <w xml:id="eco_de_000094_230_0350">sie</w>
+  <w xml:id="eco_de_000094_230_0360">nicht</w>
+  <w xml:id="eco_de_000094_230_0370">die</w>
+  <w xml:id="eco_de_000094_230_0380">Peitsche</w>
+  <w xml:id="eco_de_000094_230_0390">fühlen</w>
+  <w xml:id="eco_de_000094_230_0400">wolle</w>
+  <pc unit="sentence" xml:id="eco_de_000094_230_0410">.</pc>
+</p>
+    <p xml:id="eco_de_000094_240"><w xml:id="eco_de_000094_240_0010">Johanna</w>
+  <w xml:id="eco_de_000094_240_0020">ging</w>
+  <w xml:id="eco_de_000094_240_0030">weinend</w>
+  <w xml:id="eco_de_000094_240_0040">hinaus</w>
+  <w xml:id="eco_de_000094_240_0050">auf's</w>
+  <w xml:id="eco_de_000094_240_0060">Feld</w>
+  <pc xml:id="eco_de_000094_240_0070">;</pc>
+  <w xml:id="eco_de_000094_240_0080">Abends</w>
+  <w xml:id="eco_de_000094_240_0090">kam</w>
+  <w xml:id="eco_de_000094_240_0100">ihr</w>
+  <w xml:id="eco_de_000094_240_0110">Stephan</w>
+  <w xml:id="eco_de_000094_240_0120">nach</w>
+  <pc xml:id="eco_de_000094_240_0130">,</pc>
+  <w xml:id="eco_de_000094_240_0140">machte</w>
+  <w xml:id="eco_de_000094_240_0150">ihr</w>
+  <w xml:id="eco_de_000094_240_0160">eine</w>
+  <w xml:id="eco_de_000094_240_0170">Hütte</w>
+  <w xml:id="eco_de_000094_240_0180">zurecht</w>
+  <pc xml:id="eco_de_000094_240_0190">,</pc>
+  <w xml:id="eco_de_000094_240_0200">und</w>
+  <w xml:id="eco_de_000094_240_0210">brachte</w>
+  <w xml:id="eco_de_000094_240_0220">ihr</w>
+  <w xml:id="eco_de_000094_240_0230">Essen</w>
+  <w xml:id="eco_de_000094_240_0240">und</w>
+  <w xml:id="eco_de_000094_240_0250">Trinken</w>
+  <pc unit="sentence" xml:id="eco_de_000094_240_0260">.</pc>
+  <w xml:id="eco_de_000094_240_0270">Johanna</w>
+  <w xml:id="eco_de_000094_240_0280">lachte</w>
+  <w xml:id="eco_de_000094_240_0290">wieder</w>
+  <pc xml:id="eco_de_000094_240_0300">,</pc>
+  <w xml:id="eco_de_000094_240_0310">und</w>
+  <w xml:id="eco_de_000094_240_0320">es</w>
+  <w xml:id="eco_de_000094_240_0330">ging</w>
+  <w xml:id="eco_de_000094_240_0340">mehrere</w>
+  <w xml:id="eco_de_000094_240_0350">Monate</w>
+  <w xml:id="eco_de_000094_240_0360">ganz</w>
+  <w xml:id="eco_de_000094_240_0370">vortrefflich</w>
+  <pc unit="sentence" xml:id="eco_de_000094_240_0380">.</pc>
+</p>
+    <p xml:id="eco_de_000094_250"><w xml:id="eco_de_000094_250_0010">Der</w>
+  <w xml:id="eco_de_000094_250_0020">Wind</w>
+  <w xml:id="eco_de_000094_250_0030">wehte</w>
+  <pc xml:id="eco_de_000094_250_0040">,</pc>
+  <w xml:id="eco_de_000094_250_0050">die</w>
+  <w xml:id="eco_de_000094_250_0060">Nächte</w>
+  <w xml:id="eco_de_000094_250_0070">wurden</w>
+  <w xml:id="eco_de_000094_250_0080">kalt</w>
+  <pc xml:id="eco_de_000094_250_0090">,</pc>
+  <w xml:id="eco_de_000094_250_0100">über</w>
+  <w xml:id="eco_de_000094_250_0110">die</w>
+  <w xml:id="eco_de_000094_250_0120">blauen</w>
+  <w xml:id="eco_de_000094_250_0130">Berge</w>
+  <w xml:id="eco_de_000094_250_0140">am</w>
+  <w xml:id="eco_de_000094_250_0150">Horizonte</w>
+  <w xml:id="eco_de_000094_250_0160">her</w>
+  <w xml:id="eco_de_000094_250_0170">kam</w>
+  <w xml:id="eco_de_000094_250_0180">das</w>
+  <w xml:id="eco_de_000094_250_0190">wilde</w>
+  <w xml:id="eco_de_000094_250_0200">Geflügel</w>
+  <w xml:id="eco_de_000094_250_0210">hoch</w>
+  <w xml:id="eco_de_000094_250_0220">in</w>
+  <w xml:id="eco_de_000094_250_0230">der</w>
+  <w xml:id="eco_de_000094_250_0240">Luft</w>
+  <pc xml:id="eco_de_000094_250_0250">,</pc>
+  <w xml:id="eco_de_000094_250_0260">die</w>
+  <w xml:id="eco_de_000094_250_0270">Wiesen</w>
+  <w xml:id="eco_de_000094_250_0280">wurden</w>
+  <w xml:id="eco_de_000094_250_0290">trocken</w>
+  <w xml:id="eco_de_000094_250_0300">und</w>
+  <w xml:id="eco_de_000094_250_0310">wüst</w>
+  <pc xml:id="eco_de_000094_250_0320">,</pc>
+  <w xml:id="eco_de_000094_250_0330">Stephan</w>
+  <w xml:id="eco_de_000094_250_0340">kam</w>
+  <w xml:id="eco_de_000094_250_0350">nicht</w>
+  <w xml:id="eco_de_000094_250_0360">wieder</w>
+  <pc xml:id="eco_de_000094_250_0370">,</pc>
+  <w xml:id="eco_de_000094_250_0380">Johanna</w>
+  <w xml:id="eco_de_000094_250_0390">hatte</w>
+  <w xml:id="eco_de_000094_250_0400">kein</w>
+  <w xml:id="eco_de_000094_250_0410">Wasser</w>
+  <w xml:id="eco_de_000094_250_0420">in</w>
+  <w xml:id="eco_de_000094_250_0430">den</w>
+  <w xml:id="eco_de_000094_250_0440">Augen</w>
+  <w xml:id="eco_de_000094_250_0450">mehr</w>
+  <pc xml:id="eco_de_000094_250_0460">,</pc>
+  <w xml:id="eco_de_000094_250_0470">und</w>
+  <w xml:id="eco_de_000094_250_0480">wanderte</w>
+  <w xml:id="eco_de_000094_250_0490">der</w>
+  <w xml:id="eco_de_000094_250_0500">Sonne</w>
+  <w xml:id="eco_de_000094_250_0510">nach</w>
+  <pc xml:id="eco_de_000094_250_0520">,</pc>
+  <w xml:id="eco_de_000094_250_0530">fort</w>
+  <pc xml:id="eco_de_000094_250_0540">,</pc>
+  <w xml:id="eco_de_000094_250_0550">fort</w>
+  <w xml:id="eco_de_000094_250_0560">von</w>
+  <w xml:id="eco_de_000094_250_0570">der</w>
+  <w xml:id="eco_de_000094_250_0580">Heimath</w>
+  <pc xml:id="eco_de_000094_250_0590">,</pc>
+  <w xml:id="eco_de_000094_250_0600">die</w>
+  <w xml:id="eco_de_000094_250_0610">sie</w>
+  <w xml:id="eco_de_000094_250_0620">schmerzte</w>
+  <w xml:id="eco_de_000094_250_0630">bis</w>
+  <w xml:id="eco_de_000094_250_0640">in</w>
+  <w xml:id="eco_de_000094_250_0650">die</w>
+  <w xml:id="eco_de_000094_250_0660">innerste</w>
+  <w xml:id="eco_de_000094_250_0670">Seele</w>
+  <pc unit="sentence" xml:id="eco_de_000094_250_0680">.</pc>
+  <w xml:id="eco_de_000094_250_0690">Strümpfe</w>
+  <w xml:id="eco_de_000094_250_0700">und</w>
+  <w xml:id="eco_de_000094_250_0710">Schuhe</w>
+  <pc xml:id="eco_de_000094_250_0720">,</pc>
+  <w xml:id="eco_de_000094_250_0730">die</w>
+  <w xml:id="eco_de_000094_250_0740">sie</w>
+  <w xml:id="eco_de_000094_250_0750">noch</w>
+  <w xml:id="eco_de_000094_250_0760">aus</w>
+  <w xml:id="eco_de_000094_250_0770">dem</w>
+  <w xml:id="eco_de_000094_250_0780">Edelhause</w>
+  <w xml:id="eco_de_000094_250_0790">mitgenommen</w>
+  <w xml:id="eco_de_000094_250_0800">hatte</w>
+  <w xml:id="eco_de_000094_250_0810">aufs</w>
+  <w xml:id="eco_de_000094_250_0820">Feld</w>
+  <pc xml:id="eco_de_000094_250_0830">,</pc>
+  <w xml:id="eco_de_000094_250_0840">waren</w>
+  <w xml:id="eco_de_000094_250_0850">zerrissen</w>
+  <pc xml:id="eco_de_000094_250_0860">,</pc>
+  <w xml:id="eco_de_000094_250_0870">die</w>
+  <w xml:id="eco_de_000094_250_0880">nackten</w>
+  <w xml:id="eco_de_000094_250_0890">Füße</w>
+  <w xml:id="eco_de_000094_250_0900">bluteten</w>
+  <w xml:id="eco_de_000094_250_0910">auf</w>
+  <w xml:id="eco_de_000094_250_0920">dem</w>
+  <w xml:id="eco_de_000094_250_0930">harten</w>
+  <w xml:id="eco_de_000094_250_0940">Boden</w>
+  <pc xml:id="eco_de_000094_250_0950">,</pc>
+  <w xml:id="eco_de_000094_250_0960">des</w>
+  <w xml:id="eco_de_000094_250_0970">Nachts</w>
+  <w xml:id="eco_de_000094_250_0980">fiel</w>
+  <w xml:id="eco_de_000094_250_0990">eiskalter</w>
+  <w xml:id="eco_de_000094_250_1000">Reif</w>
+  <pc xml:id="eco_de_000094_250_1010">,</pc>
+  <w xml:id="eco_de_000094_250_1020">und</w>
+  <w xml:id="eco_de_000094_250_1030">erstarrt</w>
+  <pc xml:id="eco_de_000094_250_1040">,</pc>
+  <w xml:id="eco_de_000094_250_1050">vom</w>
+  <w xml:id="eco_de_000094_250_1060">Hunger</w>
+  <w xml:id="eco_de_000094_250_1070">entkräftet</w>
+  <pc xml:id="eco_de_000094_250_1080">,</pc>
+  <w xml:id="eco_de_000094_250_1090">aber</w>
+  <w xml:id="eco_de_000094_250_1100">ohne</w>
+  <w xml:id="eco_de_000094_250_1110">Gedanken</w>
+  <w xml:id="eco_de_000094_250_1120">an</w>
+  <w xml:id="eco_de_000094_250_1130">Frost</w>
+  <w xml:id="eco_de_000094_250_1140">und</w>
+  <w xml:id="eco_de_000094_250_1150">Hunger</w>
+  <w xml:id="eco_de_000094_250_1160">kam</w>
+  <w xml:id="eco_de_000094_250_1170">Johanna</w>
+  <w xml:id="eco_de_000094_250_1180">in</w>
+  <w xml:id="eco_de_000094_250_1190">mondheller</w>
+  <w xml:id="eco_de_000094_250_1200">Nacht</w>
+  <w xml:id="eco_de_000094_250_1210">an</w>
+  <w xml:id="eco_de_000094_250_1220">einen</w>
+  <w xml:id="eco_de_000094_250_1230">großen</w>
+  <w xml:id="eco_de_000094_250_1240">See</w>
+  <pc unit="sentence" xml:id="eco_de_000094_250_1250">.</pc>
+  <w xml:id="eco_de_000094_250_1260">Sie</w>
+  <w xml:id="eco_de_000094_250_1270">ging</w>
+  <w xml:id="eco_de_000094_250_1280">gerade</w>
+  <w xml:id="eco_de_000094_250_1290">d'rauf</w>
+  <w xml:id="eco_de_000094_250_1300">los</w>
+  <pc xml:id="eco_de_000094_250_1310">,</pc>
+  <w xml:id="eco_de_000094_250_1320">und</w>
+  <w xml:id="eco_de_000094_250_1330">wäre</w>
+  <w xml:id="eco_de_000094_250_1340">hineingegangen</w>
+  <pc xml:id="eco_de_000094_250_1350">,</pc>
+  <w xml:id="eco_de_000094_250_1360">ohne</w>
+  <w xml:id="eco_de_000094_250_1370">es</w>
+  <w xml:id="eco_de_000094_250_1380">zu</w>
+  <w xml:id="eco_de_000094_250_1390">wissen</w>
+  <w xml:id="eco_de_000094_250_1400">und</w>
+  <w xml:id="eco_de_000094_250_1410">zu</w>
+  <w xml:id="eco_de_000094_250_1420">wollen</w>
+  <pc xml:id="eco_de_000094_250_1430">,</pc>
+  <w xml:id="eco_de_000094_250_1440">wenn</w>
+  <w xml:id="eco_de_000094_250_1450">sie</w>
+  <w xml:id="eco_de_000094_250_1460">nicht</w>
+  <w xml:id="eco_de_000094_250_1470">von</w>
+  <w xml:id="eco_de_000094_250_1480">einer</w>
+  <w xml:id="eco_de_000094_250_1490">Stimme</w>
+  <w xml:id="eco_de_000094_250_1500">angerufen</w>
+  <w xml:id="eco_de_000094_250_1510">worden</w>
+  <w xml:id="eco_de_000094_250_1520">wäre</w>
+  <pc unit="sentence" xml:id="eco_de_000094_250_1530">.</pc>
+  <w xml:id="eco_de_000094_250_1540">Der</w>
+  <w xml:id="eco_de_000094_250_1550">rufende</w>
+  <w xml:id="eco_de_000094_250_1560">war</w>
+  <w xml:id="eco_de_000094_250_1570">ein</w>
+  <w xml:id="eco_de_000094_250_1580">Reiter</w>
+  <pc xml:id="eco_de_000094_250_1590">,</pc>
+  <w xml:id="eco_de_000094_250_1600">welcher</w>
+  <w xml:id="eco_de_000094_250_1610">dicht</w>
+  <w xml:id="eco_de_000094_250_1620">neben</w>
+  <w xml:id="eco_de_000094_250_1630">ihr</w>
+  <w xml:id="eco_de_000094_250_1640">hielt</w>
+  <pc xml:id="eco_de_000094_250_1650">,</pc>
+  <w xml:id="eco_de_000094_250_1660">der</w>
+  <w xml:id="eco_de_000094_250_1670">Mond</w>
+  <w xml:id="eco_de_000094_250_1680">schien</w>
+  <w xml:id="eco_de_000094_250_1690">glänzend</w>
+  <pc xml:id="eco_de_000094_250_1700">,</pc>
+  <w xml:id="eco_de_000094_250_1710">und</w>
+  <w xml:id="eco_de_000094_250_1720">spiegelte</w>
+  <w xml:id="eco_de_000094_250_1730">sich</w>
+  <w xml:id="eco_de_000094_250_1740">tausendfach</w>
+  <w xml:id="eco_de_000094_250_1750">von</w>
+  <w xml:id="eco_de_000094_250_1760">der</w>
+  <w xml:id="eco_de_000094_250_1770">breiten</w>
+  <w xml:id="eco_de_000094_250_1780">Wasserfläche</w>
+  <pc xml:id="eco_de_000094_250_1790">,</pc>
+  <w xml:id="eco_de_000094_250_1800">die</w>
+  <w xml:id="eco_de_000094_250_1810">Hand</w>
+  <w xml:id="eco_de_000094_250_1820">des</w>
+  <w xml:id="eco_de_000094_250_1830">Reiters</w>
+  <w xml:id="eco_de_000094_250_1840">legte</w>
+  <w xml:id="eco_de_000094_250_1850">sich</w>
+  <w xml:id="eco_de_000094_250_1860">auf</w>
+  <w xml:id="eco_de_000094_250_1870">des</w>
+  <w xml:id="eco_de_000094_250_1880">Mädchens</w>
+  <w xml:id="eco_de_000094_250_1890">Haar</w>
+  <w xml:id="eco_de_000094_250_1900">und</w>
+  <w xml:id="eco_de_000094_250_1910">bog</w>
+  <w xml:id="eco_de_000094_250_1920">ihr</w>
+  <w xml:id="eco_de_000094_250_1930">den</w>
+  <w xml:id="eco_de_000094_250_1940">Kopf</w>
+  <w xml:id="eco_de_000094_250_1950">in</w>
+  <w xml:id="eco_de_000094_250_1960">die</w>
+  <w xml:id="eco_de_000094_250_1970">Mondesstrahlen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_250_1980">.</pc>
+  <w xml:id="eco_de_000094_250_1990">Dann</w>
+  <w xml:id="eco_de_000094_250_2000">lehnte</w>
+  <w xml:id="eco_de_000094_250_2010">er</w>
+  <w xml:id="eco_de_000094_250_2020">das</w>
+  <w xml:id="eco_de_000094_250_2030">kalte</w>
+  <w xml:id="eco_de_000094_250_2040">Kind</w>
+  <w xml:id="eco_de_000094_250_2050">an</w>
+  <w xml:id="eco_de_000094_250_2060">die</w>
+  <w xml:id="eco_de_000094_250_2070">Weiche</w>
+  <w xml:id="eco_de_000094_250_2080">des</w>
+  <w xml:id="eco_de_000094_250_2090">Pferdes</w>
+  <pc xml:id="eco_de_000094_250_2100">,</pc>
+  <w xml:id="eco_de_000094_250_2110">und</w>
+  <w xml:id="eco_de_000094_250_2120">sprach</w>
+  <pc xml:id="eco_de_000094_250_2130">:</pc>
+  <w xml:id="eco_de_000094_250_2140">Wärme</w>
+  <w xml:id="eco_de_000094_250_2150">Dich</w>
+  <pc xml:id="eco_de_000094_250_2160">,</pc>
+  <w xml:id="eco_de_000094_250_2170">aber</w>
+  <w xml:id="eco_de_000094_250_2180">sei</w>
+  <w xml:id="eco_de_000094_250_2190">still</w>
+  <pc xml:id="eco_de_000094_250_2200">,</pc>
+  <w xml:id="eco_de_000094_250_2210">der</w>
+  <w xml:id="eco_de_000094_250_2220">Wolf</w>
+  <w xml:id="eco_de_000094_250_2230">ist</w>
+  <w xml:id="eco_de_000094_250_2240">nahe</w>
+  <pc unit="sentence" xml:id="eco_de_000094_250_2250">.</pc>
+</p>
+    <p xml:id="eco_de_000094_260"><w xml:id="eco_de_000094_260_0010">Johanna</w>
+  <w xml:id="eco_de_000094_260_0020">stand</w>
+  <pc xml:id="eco_de_000094_260_0030">,</pc>
+  <w xml:id="eco_de_000094_260_0040">und</w>
+  <w xml:id="eco_de_000094_260_0050">schwieg</w>
+  <pc xml:id="eco_de_000094_260_0060">,</pc>
+  <w xml:id="eco_de_000094_260_0070">der</w>
+  <w xml:id="eco_de_000094_260_0080">Dampf</w>
+  <w xml:id="eco_de_000094_260_0090">des</w>
+  <w xml:id="eco_de_000094_260_0100">Pferdes</w>
+  <w xml:id="eco_de_000094_260_0110">that</w>
+  <w xml:id="eco_de_000094_260_0120">ihr</w>
+  <w xml:id="eco_de_000094_260_0130">wohl</w>
+  <pc xml:id="eco_de_000094_260_0140">–</pc>
+  <w xml:id="eco_de_000094_260_0150">nach</w>
+  <w xml:id="eco_de_000094_260_0160">einer</w>
+  <w xml:id="eco_de_000094_260_0170">Weile</w>
+  <w xml:id="eco_de_000094_260_0180">drang</w>
+  <w xml:id="eco_de_000094_260_0190">ein</w>
+  <w xml:id="eco_de_000094_260_0200">wunderliches</w>
+  <w xml:id="eco_de_000094_260_0210">Geräusch</w>
+  <w xml:id="eco_de_000094_260_0220">aus</w>
+  <w xml:id="eco_de_000094_260_0230">der</w>
+  <w xml:id="eco_de_000094_260_0240">Ferne</w>
+  <pc xml:id="eco_de_000094_260_0250">,</pc>
+  <w xml:id="eco_de_000094_260_0260">ein</w>
+  <w xml:id="eco_de_000094_260_0270">Geräusch</w>
+  <w xml:id="eco_de_000094_260_0280">wie</w>
+  <w xml:id="eco_de_000094_260_0290">heiseres</w>
+  <w xml:id="eco_de_000094_260_0300">Hundegebell</w>
+  <pc unit="sentence" xml:id="eco_de_000094_260_0310">.</pc>
+  <w xml:id="eco_de_000094_260_0320">Der</w>
+  <w xml:id="eco_de_000094_260_0330">Reiter</w>
+  <w xml:id="eco_de_000094_260_0340">spannte</w>
+  <w xml:id="eco_de_000094_260_0350">den</w>
+  <w xml:id="eco_de_000094_260_0360">Hahn</w>
+  <w xml:id="eco_de_000094_260_0370">seiner</w>
+  <w xml:id="eco_de_000094_260_0380">langen</w>
+  <w xml:id="eco_de_000094_260_0390">Büchse</w>
+  <pc xml:id="eco_de_000094_260_0400">,</pc>
+  <w xml:id="eco_de_000094_260_0410">das</w>
+  <w xml:id="eco_de_000094_260_0420">Pferd</w>
+  <w xml:id="eco_de_000094_260_0430">zitterte</w>
+  <w xml:id="eco_de_000094_260_0440">und</w>
+  <w xml:id="eco_de_000094_260_0450">stöhnte</w>
+  <pc xml:id="eco_de_000094_260_0460">,</pc>
+  <w xml:id="eco_de_000094_260_0470">ein</w>
+  <w xml:id="eco_de_000094_260_0480">dunkler</w>
+  <w xml:id="eco_de_000094_260_0490">Schatten</w>
+  <w xml:id="eco_de_000094_260_0500">zeigte</w>
+  <w xml:id="eco_de_000094_260_0510">sich</w>
+  <w xml:id="eco_de_000094_260_0520">in</w>
+  <w xml:id="eco_de_000094_260_0530">der</w>
+  <w xml:id="eco_de_000094_260_0540">Entfernung</w>
+  <w xml:id="eco_de_000094_260_0550">von</w>
+  <w xml:id="eco_de_000094_260_0560">etwa</w>
+  <w xml:id="eco_de_000094_260_0570">zwanzig</w>
+  <w xml:id="eco_de_000094_260_0580">Schritten</w>
+  <pc unit="sentence" xml:id="eco_de_000094_260_0590">.</pc>
+  <w xml:id="eco_de_000094_260_0600">Es</w>
+  <w xml:id="eco_de_000094_260_0610">war</w>
+  <w xml:id="eco_de_000094_260_0620">der</w>
+  <w xml:id="eco_de_000094_260_0630">Wolf</w>
+  <pc unit="sentence" xml:id="eco_de_000094_260_0640">.</pc>
+</p>
+    <p xml:id="eco_de_000094_270"><w xml:id="eco_de_000094_270_0010">Die</w>
+  <w xml:id="eco_de_000094_270_0020">Büchse</w>
+  <w xml:id="eco_de_000094_270_0030">knallte</w>
+  <pc xml:id="eco_de_000094_270_0040">,</pc>
+  <w xml:id="eco_de_000094_270_0050">der</w>
+  <w xml:id="eco_de_000094_270_0060">Schatten</w>
+  <w xml:id="eco_de_000094_270_0070">verschwand</w>
+  <pc xml:id="eco_de_000094_270_0080">,</pc>
+  <w xml:id="eco_de_000094_270_0090">aber</w>
+  <w xml:id="eco_de_000094_270_0100">ein</w>
+  <w xml:id="eco_de_000094_270_0110">lautes</w>
+  <w xml:id="eco_de_000094_270_0120">Geheul</w>
+  <w xml:id="eco_de_000094_270_0130">ward</w>
+  <w xml:id="eco_de_000094_270_0140">in</w>
+  <w xml:id="eco_de_000094_270_0150">der</w>
+  <w xml:id="eco_de_000094_270_0160">Ferne</w>
+  <w xml:id="eco_de_000094_270_0170">hörbar</w>
+  <pc xml:id="eco_de_000094_270_0180">,</pc>
+  <w xml:id="eco_de_000094_270_0190">das</w>
+  <w xml:id="eco_de_000094_270_0200">Pferd</w>
+  <w xml:id="eco_de_000094_270_0210">wurde</w>
+  <w xml:id="eco_de_000094_270_0220">immer</w>
+  <w xml:id="eco_de_000094_270_0230">ängstlicher</w>
+  <pc xml:id="eco_de_000094_270_0240">,</pc>
+  <w xml:id="eco_de_000094_270_0250">stöhnte</w>
+  <w xml:id="eco_de_000094_270_0260">immer</w>
+  <w xml:id="eco_de_000094_270_0270">heftiger</w>
+  <pc unit="sentence" xml:id="eco_de_000094_270_0280">.</pc>
+</p>
+    <p xml:id="eco_de_000094_280"><w xml:id="eco_de_000094_280_0010">Spring</w>
+  <w xml:id="eco_de_000094_280_0020">auf</w>
+  <pc xml:id="eco_de_000094_280_0030">,</pc>
+  <w xml:id="eco_de_000094_280_0040">Mädchen</w>
+  <pc xml:id="eco_de_000094_280_0050">,</pc>
+  <w xml:id="eco_de_000094_280_0060">rief</w>
+  <w xml:id="eco_de_000094_280_0070">hastig</w>
+  <w xml:id="eco_de_000094_280_0080">der</w>
+  <w xml:id="eco_de_000094_280_0090">Reiter</w>
+  <pc xml:id="eco_de_000094_280_0100">,</pc>
+  <w xml:id="eco_de_000094_280_0110">es</w>
+  <w xml:id="eco_de_000094_280_0120">kommt</w>
+  <w xml:id="eco_de_000094_280_0130">ein</w>
+  <w xml:id="eco_de_000094_280_0140">ganzer</w>
+  <w xml:id="eco_de_000094_280_0150">Trupp</w>
+  <pc xml:id="eco_de_000094_280_0160">–</pc>
+  <w xml:id="eco_de_000094_280_0170">greif</w>
+  <pc xml:id="eco_de_000094_280_0180">'</pc>
+  <w xml:id="eco_de_000094_280_0190">aus</w>
+  <pc xml:id="eco_de_000094_280_0200">,</pc>
+  <w xml:id="eco_de_000094_280_0210">Selim</w>
+  <pc unit="sentence" xml:id="eco_de_000094_280_0220">!</pc>
+</p>
+    <p xml:id="eco_de_000094_290"><w xml:id="eco_de_000094_290_0010">Mit</w>
+  <w xml:id="eco_de_000094_290_0020">diesen</w>
+  <w xml:id="eco_de_000094_290_0030">Worten</w>
+  <w xml:id="eco_de_000094_290_0040">hatte</w>
+  <w xml:id="eco_de_000094_290_0050">er</w>
+  <w xml:id="eco_de_000094_290_0060">sie</w>
+  <w xml:id="eco_de_000094_290_0070">zu</w>
+  <w xml:id="eco_de_000094_290_0080">sich</w>
+  <w xml:id="eco_de_000094_290_0090">auf</w>
+  <w xml:id="eco_de_000094_290_0100">den</w>
+  <w xml:id="eco_de_000094_290_0110">Sattel</w>
+  <w xml:id="eco_de_000094_290_0120">gehoben</w>
+  <pc xml:id="eco_de_000094_290_0130">,</pc>
+  <w xml:id="eco_de_000094_290_0140">und</w>
+  <w xml:id="eco_de_000094_290_0150">am</w>
+  <w xml:id="eco_de_000094_290_0160">Rande</w>
+  <w xml:id="eco_de_000094_290_0170">des</w>
+  <w xml:id="eco_de_000094_290_0180">See's</w>
+  <w xml:id="eco_de_000094_290_0190">hin</w>
+  <w xml:id="eco_de_000094_290_0200">jagte</w>
+  <w xml:id="eco_de_000094_290_0210">keuchend</w>
+  <pc xml:id="eco_de_000094_290_0220">,</pc>
+  <w xml:id="eco_de_000094_290_0230">in</w>
+  <w xml:id="eco_de_000094_290_0240">Todesangst</w>
+  <w xml:id="eco_de_000094_290_0250">das</w>
+  <w xml:id="eco_de_000094_290_0260">Roß</w>
+  <pc xml:id="eco_de_000094_290_0270">,</pc>
+  <w xml:id="eco_de_000094_290_0280">das</w>
+  <w xml:id="eco_de_000094_290_0290">Geheul</w>
+  <w xml:id="eco_de_000094_290_0300">der</w>
+  <w xml:id="eco_de_000094_290_0310">Wölfe</w>
+  <w xml:id="eco_de_000094_290_0320">hintendrein</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_0330">.</pc>
+  <w xml:id="eco_de_000094_290_0340">So</w>
+  <w xml:id="eco_de_000094_290_0350">ging's</w>
+  <w xml:id="eco_de_000094_290_0360">wohl</w>
+  <w xml:id="eco_de_000094_290_0370">eine</w>
+  <w xml:id="eco_de_000094_290_0380">halbe</w>
+  <w xml:id="eco_de_000094_290_0390">Stunde</w>
+  <pc xml:id="eco_de_000094_290_0400">,</pc>
+  <w xml:id="eco_de_000094_290_0410">da</w>
+  <w xml:id="eco_de_000094_290_0420">wurden</w>
+  <w xml:id="eco_de_000094_290_0430">die</w>
+  <w xml:id="eco_de_000094_290_0440">Tritte</w>
+  <w xml:id="eco_de_000094_290_0450">des</w>
+  <w xml:id="eco_de_000094_290_0460">Pferdes</w>
+  <w xml:id="eco_de_000094_290_0470">unsicher</w>
+  <pc xml:id="eco_de_000094_290_0480">,</pc>
+  <w xml:id="eco_de_000094_290_0490">sein</w>
+  <w xml:id="eco_de_000094_290_0500">Kreuz</w>
+  <w xml:id="eco_de_000094_290_0510">schwankte</w>
+  <pc xml:id="eco_de_000094_290_0520">,</pc>
+  <w xml:id="eco_de_000094_290_0530">das</w>
+  <w xml:id="eco_de_000094_290_0540">Geheul</w>
+  <w xml:id="eco_de_000094_290_0550">der</w>
+  <w xml:id="eco_de_000094_290_0560">Wölfe</w>
+  <w xml:id="eco_de_000094_290_0570">kam</w>
+  <w xml:id="eco_de_000094_290_0580">näher</w>
+  <pc xml:id="eco_de_000094_290_0590">–</pc>
+  <w xml:id="eco_de_000094_290_0600">Selim</w>
+  <pc xml:id="eco_de_000094_290_0610">,</pc>
+  <w xml:id="eco_de_000094_290_0620">noch</w>
+  <w xml:id="eco_de_000094_290_0630">einen</w>
+  <w xml:id="eco_de_000094_290_0640">Acker</w>
+  <w xml:id="eco_de_000094_290_0650">lang</w>
+  <w xml:id="eco_de_000094_290_0660">halte</w>
+  <w xml:id="eco_de_000094_290_0670">aus</w>
+  <pc xml:id="eco_de_000094_290_0680">,</pc>
+  <w xml:id="eco_de_000094_290_0690">sonst</w>
+  <w xml:id="eco_de_000094_290_0700">sind</w>
+  <w xml:id="eco_de_000094_290_0710">wir</w>
+  <w xml:id="eco_de_000094_290_0720">Alle</w>
+  <w xml:id="eco_de_000094_290_0730">verloren</w>
+  <pc xml:id="eco_de_000094_290_0740">,</pc>
+  <w xml:id="eco_de_000094_290_0750">rief</w>
+  <w xml:id="eco_de_000094_290_0760">der</w>
+  <w xml:id="eco_de_000094_290_0770">Reiter</w>
+  <pc xml:id="eco_de_000094_290_0780">,</pc>
+  <w xml:id="eco_de_000094_290_0790">und</w>
+  <w xml:id="eco_de_000094_290_0800">drückte</w>
+  <w xml:id="eco_de_000094_290_0810">dem</w>
+  <w xml:id="eco_de_000094_290_0820">Thiere</w>
+  <w xml:id="eco_de_000094_290_0830">die</w>
+  <w xml:id="eco_de_000094_290_0840">Sporen</w>
+  <w xml:id="eco_de_000094_290_0850">ein</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_0860">.</pc>
+  <w xml:id="eco_de_000094_290_0870">Jach</w>
+  <w xml:id="eco_de_000094_290_0880">flog</w>
+  <w xml:id="eco_de_000094_290_0890">es</w>
+  <w xml:id="eco_de_000094_290_0900">noch</w>
+  <w xml:id="eco_de_000094_290_0910">eine</w>
+  <w xml:id="eco_de_000094_290_0920">kurze</w>
+  <w xml:id="eco_de_000094_290_0930">Strecke</w>
+  <w xml:id="eco_de_000094_290_0940">hin</w>
+  <pc xml:id="eco_de_000094_290_0950">,</pc>
+  <w xml:id="eco_de_000094_290_0960">dann</w>
+  <w xml:id="eco_de_000094_290_0970">stürzte</w>
+  <w xml:id="eco_de_000094_290_0980">es</w>
+  <w xml:id="eco_de_000094_290_0990">zusammen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_1000">.</pc>
+  <w xml:id="eco_de_000094_290_1010">Der</w>
+  <w xml:id="eco_de_000094_290_1020">Reiter</w>
+  <w xml:id="eco_de_000094_290_1030">raffte</w>
+  <w xml:id="eco_de_000094_290_1040">sich</w>
+  <w xml:id="eco_de_000094_290_1050">und</w>
+  <w xml:id="eco_de_000094_290_1060">das</w>
+  <w xml:id="eco_de_000094_290_1070">Mädchen</w>
+  <w xml:id="eco_de_000094_290_1080">auf</w>
+  <pc xml:id="eco_de_000094_290_1090">,</pc>
+  <w xml:id="eco_de_000094_290_1100">und</w>
+  <w xml:id="eco_de_000094_290_1110">riß</w>
+  <w xml:id="eco_de_000094_290_1120">sie</w>
+  <w xml:id="eco_de_000094_290_1130">schnellen</w>
+  <w xml:id="eco_de_000094_290_1140">Laufes</w>
+  <w xml:id="eco_de_000094_290_1150">am</w>
+  <w xml:id="eco_de_000094_290_1160">Arme</w>
+  <w xml:id="eco_de_000094_290_1170">fort</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_1180">.</pc>
+  <w xml:id="eco_de_000094_290_1190">Sie</w>
+  <w xml:id="eco_de_000094_290_1200">waren</w>
+  <w xml:id="eco_de_000094_290_1210">aber</w>
+  <w xml:id="eco_de_000094_290_1220">kaum</w>
+  <w xml:id="eco_de_000094_290_1230">tausend</w>
+  <w xml:id="eco_de_000094_290_1240">Schritte</w>
+  <w xml:id="eco_de_000094_290_1250">weit</w>
+  <w xml:id="eco_de_000094_290_1260">gekommen</w>
+  <pc xml:id="eco_de_000094_290_1270">,</pc>
+  <w xml:id="eco_de_000094_290_1280">da</w>
+  <w xml:id="eco_de_000094_290_1290">brachen</w>
+  <w xml:id="eco_de_000094_290_1300">Johanna's</w>
+  <w xml:id="eco_de_000094_290_1310">Kniee</w>
+  <pc xml:id="eco_de_000094_290_1320">,</pc>
+  <w xml:id="eco_de_000094_290_1330">und</w>
+  <w xml:id="eco_de_000094_290_1340">sie</w>
+  <w xml:id="eco_de_000094_290_1350">sank</w>
+  <w xml:id="eco_de_000094_290_1360">kraftlos</w>
+  <w xml:id="eco_de_000094_290_1370">zur</w>
+  <w xml:id="eco_de_000094_290_1380">Erde</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_1390">.</pc>
+  <w xml:id="eco_de_000094_290_1400">Immer</w>
+  <w xml:id="eco_de_000094_290_1410">näher</w>
+  <w xml:id="eco_de_000094_290_1420">kam</w>
+  <w xml:id="eco_de_000094_290_1430">das</w>
+  <w xml:id="eco_de_000094_290_1440">Geheul</w>
+  <w xml:id="eco_de_000094_290_1450">der</w>
+  <w xml:id="eco_de_000094_290_1460">Wölfe</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_1470">.</pc>
+  <w xml:id="eco_de_000094_290_1480">Der</w>
+  <w xml:id="eco_de_000094_290_1490">athemlose</w>
+  <w xml:id="eco_de_000094_290_1500">Reiter</w>
+  <w xml:id="eco_de_000094_290_1510">setzte</w>
+  <w xml:id="eco_de_000094_290_1520">ein</w>
+  <w xml:id="eco_de_000094_290_1530">Horn</w>
+  <w xml:id="eco_de_000094_290_1540">an</w>
+  <w xml:id="eco_de_000094_290_1550">den</w>
+  <w xml:id="eco_de_000094_290_1560">Mund</w>
+  <pc xml:id="eco_de_000094_290_1570">,</pc>
+  <w xml:id="eco_de_000094_290_1580">und</w>
+  <w xml:id="eco_de_000094_290_1590">preßte</w>
+  <w xml:id="eco_de_000094_290_1600">einzelne</w>
+  <pc xml:id="eco_de_000094_290_1610">,</pc>
+  <w xml:id="eco_de_000094_290_1620">grelle</w>
+  <w xml:id="eco_de_000094_290_1630">Töne</w>
+  <w xml:id="eco_de_000094_290_1640">heraus</w>
+  <pc xml:id="eco_de_000094_290_1650">,</pc>
+  <w xml:id="eco_de_000094_290_1660">dann</w>
+  <w xml:id="eco_de_000094_290_1670">nahm</w>
+  <w xml:id="eco_de_000094_290_1680">er</w>
+  <w xml:id="eco_de_000094_290_1690">das</w>
+  <w xml:id="eco_de_000094_290_1700">Mädchen</w>
+  <w xml:id="eco_de_000094_290_1710">auf</w>
+  <w xml:id="eco_de_000094_290_1720">die</w>
+  <w xml:id="eco_de_000094_290_1730">Arme</w>
+  <w xml:id="eco_de_000094_290_1740">und</w>
+  <w xml:id="eco_de_000094_290_1750">sprang</w>
+  <w xml:id="eco_de_000094_290_1760">weiter</w>
+  <pc xml:id="eco_de_000094_290_1770">–</pc>
+  <w xml:id="eco_de_000094_290_1780">ein</w>
+  <w xml:id="eco_de_000094_290_1790">breiter</w>
+  <w xml:id="eco_de_000094_290_1800">Schatten</w>
+  <w xml:id="eco_de_000094_290_1810">zeigte</w>
+  <w xml:id="eco_de_000094_290_1820">sich</w>
+  <pc xml:id="eco_de_000094_290_1830">,</pc>
+  <w xml:id="eco_de_000094_290_1840">es</w>
+  <w xml:id="eco_de_000094_290_1850">war</w>
+  <w xml:id="eco_de_000094_290_1860">sein</w>
+  <w xml:id="eco_de_000094_290_1870">Gehöfte</w>
+  <pc xml:id="eco_de_000094_290_1880">,</pc>
+  <w xml:id="eco_de_000094_290_1890">aber</w>
+  <w xml:id="eco_de_000094_290_1900">die</w>
+  <w xml:id="eco_de_000094_290_1910">Wölfe</w>
+  <w xml:id="eco_de_000094_290_1920">waren</w>
+  <w xml:id="eco_de_000094_290_1930">ihm</w>
+  <w xml:id="eco_de_000094_290_1940">dicht</w>
+  <w xml:id="eco_de_000094_290_1950">auf</w>
+  <w xml:id="eco_de_000094_290_1960">der</w>
+  <w xml:id="eco_de_000094_290_1970">Ferse</w>
+  <pc xml:id="eco_de_000094_290_1980">–</pc>
+  <w xml:id="eco_de_000094_290_1990">in</w>
+  <w xml:id="eco_de_000094_290_2000">diesem</w>
+  <w xml:id="eco_de_000094_290_2010">gefährlichen</w>
+  <w xml:id="eco_de_000094_290_2020">Augenblicke</w>
+  <w xml:id="eco_de_000094_290_2030">dröhnte</w>
+  <w xml:id="eco_de_000094_290_2040">der</w>
+  <w xml:id="eco_de_000094_290_2050">Hufschlag</w>
+  <w xml:id="eco_de_000094_290_2060">einer</w>
+  <w xml:id="eco_de_000094_290_2070">Reiterschaar</w>
+  <w xml:id="eco_de_000094_290_2080">den</w>
+  <w xml:id="eco_de_000094_290_2090">Bedrängten</w>
+  <w xml:id="eco_de_000094_290_2100">entgegen</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_2110">.</pc>
+  <w xml:id="eco_de_000094_290_2120">Der</w>
+  <w xml:id="eco_de_000094_290_2130">Hilferuf</w>
+  <w xml:id="eco_de_000094_290_2140">des</w>
+  <w xml:id="eco_de_000094_290_2150">Herrn</w>
+  <w xml:id="eco_de_000094_290_2160">war</w>
+  <w xml:id="eco_de_000094_290_2170">gehört</w>
+  <w xml:id="eco_de_000094_290_2180">worden</w>
+  <pc xml:id="eco_de_000094_290_2190">,</pc>
+  <w xml:id="eco_de_000094_290_2200">seine</w>
+  <w xml:id="eco_de_000094_290_2210">Knechte</w>
+  <w xml:id="eco_de_000094_290_2220">sprengten</w>
+  <w xml:id="eco_de_000094_290_2230">herbei</w>
+  <w xml:id="eco_de_000094_290_2240">mit</w>
+  <w xml:id="eco_de_000094_290_2250">Knütteln</w>
+  <w xml:id="eco_de_000094_290_2260">auf</w>
+  <w xml:id="eco_de_000094_290_2270">nackten</w>
+  <w xml:id="eco_de_000094_290_2280">Pferden</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_2290">.</pc>
+  <w xml:id="eco_de_000094_290_2300">Ihre</w>
+  <w xml:id="eco_de_000094_290_2310">Menge</w>
+  <w xml:id="eco_de_000094_290_2320">vertrieb</w>
+  <w xml:id="eco_de_000094_290_2330">die</w>
+  <w xml:id="eco_de_000094_290_2340">hungrigen</w>
+  <w xml:id="eco_de_000094_290_2350">Bestien</w>
+  <pc unit="sentence" xml:id="eco_de_000094_290_2360">.</pc>
+  <pc xml:id="eco_de_000094_290_2370">–</pc>
+</p>
+    <p xml:id="eco_de_000094_300"><pc xml:id="eco_de_000094_300_0010">-</pc>
+  <w xml:id="eco_de_000094_300_0020">Der</w>
+  <w xml:id="eco_de_000094_300_0030">Graf</w>
+  <pc xml:id="eco_de_000094_300_0040">,</pc>
+  <w xml:id="eco_de_000094_300_0050">welcher</w>
+  <w xml:id="eco_de_000094_300_0060">Johanna</w>
+  <w xml:id="eco_de_000094_300_0070">gerettet</w>
+  <w xml:id="eco_de_000094_300_0080">hatte</w>
+  <pc xml:id="eco_de_000094_300_0090">,</pc>
+  <w xml:id="eco_de_000094_300_0100">war</w>
+  <w xml:id="eco_de_000094_300_0110">ein</w>
+  <w xml:id="eco_de_000094_300_0120">hoher</w>
+  <pc xml:id="eco_de_000094_300_0130">,</pc>
+  <w xml:id="eco_de_000094_300_0140">straffer</w>
+  <w xml:id="eco_de_000094_300_0150">Herr</w>
+  <w xml:id="eco_de_000094_300_0160">von</w>
+  <w xml:id="eco_de_000094_300_0170">vierzig</w>
+  <w xml:id="eco_de_000094_300_0180">Jahren</w>
+  <pc xml:id="eco_de_000094_300_0190">,</pc>
+  <w xml:id="eco_de_000094_300_0200">dem</w>
+  <w xml:id="eco_de_000094_300_0210">viele</w>
+  <w xml:id="eco_de_000094_300_0220">Aecker</w>
+  <w xml:id="eco_de_000094_300_0230">und</w>
+  <w xml:id="eco_de_000094_300_0240">Bauern</w>
+  <w xml:id="eco_de_000094_300_0250">gehörten</w>
+  <pc unit="sentence" xml:id="eco_de_000094_300_0260">.</pc>
+  <w xml:id="eco_de_000094_300_0270">Er</w>
+  <w xml:id="eco_de_000094_300_0280">behielt</w>
+  <w xml:id="eco_de_000094_300_0290">Johanna</w>
+  <w xml:id="eco_de_000094_300_0300">bei</w>
+  <w xml:id="eco_de_000094_300_0310">sich</w>
+  <pc xml:id="eco_de_000094_300_0320">,</pc>
+  <w xml:id="eco_de_000094_300_0330">gab</w>
+  <w xml:id="eco_de_000094_300_0340">ihr</w>
+  <w xml:id="eco_de_000094_300_0350">zu</w>
+  <w xml:id="eco_de_000094_300_0360">essen</w>
+  <pc xml:id="eco_de_000094_300_0370">,</pc>
+  <w xml:id="eco_de_000094_300_0380">ein</w>
+  <w xml:id="eco_de_000094_300_0390">weiches</w>
+  <w xml:id="eco_de_000094_300_0400">Bett</w>
+  <w xml:id="eco_de_000094_300_0410">und</w>
+  <w xml:id="eco_de_000094_300_0420">zog</w>
+  <w xml:id="eco_de_000094_300_0430">ihr</w>
+  <w xml:id="eco_de_000094_300_0440">am</w>
+  <w xml:id="eco_de_000094_300_0450">Morgen</w>
+  <w xml:id="eco_de_000094_300_0460">schöne</w>
+  <w xml:id="eco_de_000094_300_0470">Strümpfe</w>
+  <w xml:id="eco_de_000094_300_0480">und</w>
+  <w xml:id="eco_de_000094_300_0490">Schuhe</w>
+  <w xml:id="eco_de_000094_300_0500">an</w>
+  <pc unit="sentence" xml:id="eco_de_000094_300_0510">.</pc>
+</p>
+    <p xml:id="eco_de_000094_310"><w xml:id="eco_de_000094_310_0010">Im</w>
+  <w xml:id="eco_de_000094_310_0020">nächsten</w>
+  <w xml:id="eco_de_000094_310_0030">Frühjahre</w>
+  <w xml:id="eco_de_000094_310_0040">nahm</w>
+  <w xml:id="eco_de_000094_310_0050">er</w>
+  <w xml:id="eco_de_000094_310_0060">sie</w>
+  <w xml:id="eco_de_000094_310_0070">mit</w>
+  <w xml:id="eco_de_000094_310_0080">nach</w>
+  <w xml:id="eco_de_000094_310_0090">Preßburg</w>
+  <pc xml:id="eco_de_000094_310_0100">,</pc>
+  <w xml:id="eco_de_000094_310_0110">und</w>
+  <w xml:id="eco_de_000094_310_0120">von</w>
+  <w xml:id="eco_de_000094_310_0130">dort</w>
+  <w xml:id="eco_de_000094_310_0140">entlief</w>
+  <w xml:id="eco_de_000094_310_0150">das</w>
+  <w xml:id="eco_de_000094_310_0160">Mädchen</w>
+  <pc xml:id="eco_de_000094_310_0170">,</pc>
+  <w xml:id="eco_de_000094_310_0180">und</w>
+  <w xml:id="eco_de_000094_310_0190">kam</w>
+  <w xml:id="eco_de_000094_310_0200">an</w>
+  <w xml:id="eco_de_000094_310_0210">einem</w>
+  <w xml:id="eco_de_000094_310_0220">warmen</w>
+  <w xml:id="eco_de_000094_310_0230">Abende</w>
+  <w xml:id="eco_de_000094_310_0240">nach</w>
+  <w xml:id="eco_de_000094_310_0250">Wien</w>
+  <pc unit="sentence" xml:id="eco_de_000094_310_0260">.</pc>
+  <w xml:id="eco_de_000094_310_0270">Auf</w>
+  <w xml:id="eco_de_000094_310_0280">der</w>
+  <w xml:id="eco_de_000094_310_0290">Singerstraße</w>
+  <w xml:id="eco_de_000094_310_0300">begegnete</w>
+  <w xml:id="eco_de_000094_310_0310">ihr</w>
+  <w xml:id="eco_de_000094_310_0320">ein</w>
+  <w xml:id="eco_de_000094_310_0330">Nachbar</w>
+  <w xml:id="eco_de_000094_310_0340">ihres</w>
+  <w xml:id="eco_de_000094_310_0350">Grafen</w>
+  <pc xml:id="eco_de_000094_310_0360">,</pc>
+  <w xml:id="eco_de_000094_310_0370">er</w>
+  <w xml:id="eco_de_000094_310_0380">war</w>
+  <w xml:id="eco_de_000094_310_0390">indessen</w>
+  <w xml:id="eco_de_000094_310_0400">ein</w>
+  <w xml:id="eco_de_000094_310_0410">guter</w>
+  <w xml:id="eco_de_000094_310_0420">Kauz</w>
+  <pc xml:id="eco_de_000094_310_0430">,</pc>
+  <w xml:id="eco_de_000094_310_0440">und</w>
+  <w xml:id="eco_de_000094_310_0450">versprach</w>
+  <w xml:id="eco_de_000094_310_0460">ihr</w>
+  <pc xml:id="eco_de_000094_310_0470">,</pc>
+  <w xml:id="eco_de_000094_310_0480">jenem</w>
+  <w xml:id="eco_de_000094_310_0490">nicht</w>
+  <w xml:id="eco_de_000094_310_0500">nur</w>
+  <w xml:id="eco_de_000094_310_0510">nichts</w>
+  <w xml:id="eco_de_000094_310_0520">mitzutheilen</w>
+  <pc xml:id="eco_de_000094_310_0530">,</pc>
+  <w xml:id="eco_de_000094_310_0540">sondern</w>
+  <w xml:id="eco_de_000094_310_0550">ihn</w>
+  <w xml:id="eco_de_000094_310_0560">sogar</w>
+  <w xml:id="eco_de_000094_310_0570">auf</w>
+  <w xml:id="eco_de_000094_310_0580">falsche</w>
+  <w xml:id="eco_de_000094_310_0590">Fährte</w>
+  <w xml:id="eco_de_000094_310_0600">zu</w>
+  <w xml:id="eco_de_000094_310_0610">leiten</w>
+  <pc xml:id="eco_de_000094_310_0620">,</pc>
+  <w xml:id="eco_de_000094_310_0630">der</w>
+  <w xml:id="eco_de_000094_310_0640">gutmüthige</w>
+  <w xml:id="eco_de_000094_310_0650">Ungar</w>
+  <w xml:id="eco_de_000094_310_0660">ward</w>
+  <w xml:id="eco_de_000094_310_0670">ihr</w>
+  <w xml:id="eco_de_000094_310_0680">ein</w>
+  <w xml:id="eco_de_000094_310_0690">Trost</w>
+  <pc xml:id="eco_de_000094_310_0700">,</pc>
+  <w xml:id="eco_de_000094_310_0710">er</w>
+  <w xml:id="eco_de_000094_310_0720">war</w>
+  <w xml:id="eco_de_000094_310_0730">nicht</w>
+  <w xml:id="eco_de_000094_310_0740">ungestümm</w>
+  <pc xml:id="eco_de_000094_310_0750">,</pc>
+  <w xml:id="eco_de_000094_310_0760">und</w>
+  <w xml:id="eco_de_000094_310_0770">gewährte</w>
+  <w xml:id="eco_de_000094_310_0780">ihr</w>
+  <w xml:id="eco_de_000094_310_0790">einen</w>
+  <w xml:id="eco_de_000094_310_0800">erwünschten</w>
+  <w xml:id="eco_de_000094_310_0810">Anhalt</w>
+  <pc unit="sentence" xml:id="eco_de_000094_310_0820">.</pc>
+  <w xml:id="eco_de_000094_310_0830">Außer</w>
+  <w xml:id="eco_de_000094_310_0840">der</w>
+  <w xml:id="eco_de_000094_310_0850">Heimath</w>
+  <w xml:id="eco_de_000094_310_0860">besinnt</w>
+  <w xml:id="eco_de_000094_310_0870">sich</w>
+  <w xml:id="eco_de_000094_310_0880">wohl</w>
+  <w xml:id="eco_de_000094_310_0890">der</w>
+  <w xml:id="eco_de_000094_310_0900">Magyar</w>
+  <pc xml:id="eco_de_000094_310_0910">,</pc>
+  <w xml:id="eco_de_000094_310_0920">daß</w>
+  <w xml:id="eco_de_000094_310_0930">er</w>
+  <w xml:id="eco_de_000094_310_0940">mit</w>
+  <w xml:id="eco_de_000094_310_0950">dem</w>
+  <w xml:id="eco_de_000094_310_0960">Mädchen</w>
+  <w xml:id="eco_de_000094_310_0970">nicht</w>
+  <w xml:id="eco_de_000094_310_0980">so</w>
+  <w xml:id="eco_de_000094_310_0990">kurz</w>
+  <w xml:id="eco_de_000094_310_1000">angebunden</w>
+  <w xml:id="eco_de_000094_310_1010">sein</w>
+  <w xml:id="eco_de_000094_310_1020">könne</w>
+  <pc unit="sentence" xml:id="eco_de_000094_310_1030">.</pc>
+</p>
+    <p xml:id="eco_de_000094_320"><w xml:id="eco_de_000094_320_0010">Gesundheit</w>
+  <pc xml:id="eco_de_000094_320_0020">,</pc>
+  <w xml:id="eco_de_000094_320_0030">Jugend</w>
+  <pc xml:id="eco_de_000094_320_0040">,</pc>
+  <w xml:id="eco_de_000094_320_0050">Frühling</w>
+  <w xml:id="eco_de_000094_320_0060">waren</w>
+  <w xml:id="eco_de_000094_320_0070">wieder</w>
+  <w xml:id="eco_de_000094_320_0080">aufgewacht</w>
+  <w xml:id="eco_de_000094_320_0090">in</w>
+  <w xml:id="eco_de_000094_320_0100">Johanna</w>
+  <pc xml:id="eco_de_000094_320_0110">,</pc>
+  <w xml:id="eco_de_000094_320_0120">und</w>
+  <w xml:id="eco_de_000094_320_0130">Wien</w>
+  <w xml:id="eco_de_000094_320_0140">hatte</w>
+  <w xml:id="eco_de_000094_320_0150">das</w>
+  <w xml:id="eco_de_000094_320_0160">Seinige</w>
+  <w xml:id="eco_de_000094_320_0170">gethan</w>
+  <pc unit="sentence" xml:id="eco_de_000094_320_0180">.</pc>
+  <w xml:id="eco_de_000094_320_0190">Es</w>
+  <w xml:id="eco_de_000094_320_0200">ist</w>
+  <w xml:id="eco_de_000094_320_0210">diese</w>
+  <w xml:id="eco_de_000094_320_0220">Stadt</w>
+  <w xml:id="eco_de_000094_320_0230">ein</w>
+  <w xml:id="eco_de_000094_320_0240">wirklicher</w>
+  <w xml:id="eco_de_000094_320_0250">Lethestrom</w>
+  <pc xml:id="eco_de_000094_320_0260">,</pc>
+  <w xml:id="eco_de_000094_320_0270">wenn</w>
+  <w xml:id="eco_de_000094_320_0280">man</w>
+  <w xml:id="eco_de_000094_320_0290">hineintaucht</w>
+  <pc xml:id="eco_de_000094_320_0300">,</pc>
+  <w xml:id="eco_de_000094_320_0310">tüchtig</w>
+  <w xml:id="eco_de_000094_320_0320">untertaucht</w>
+  <pc xml:id="eco_de_000094_320_0330">,</pc>
+  <w xml:id="eco_de_000094_320_0340">so</w>
+  <w xml:id="eco_de_000094_320_0350">vergißt</w>
+  <w xml:id="eco_de_000094_320_0360">man</w>
+  <w xml:id="eco_de_000094_320_0370">Gutes</w>
+  <pc xml:id="eco_de_000094_320_0380">,</pc>
+  <w xml:id="eco_de_000094_320_0390">wie</w>
+  <w xml:id="eco_de_000094_320_0400">Schlimmes</w>
+  <pc unit="sentence" xml:id="eco_de_000094_320_0410">.</pc>
+</p>
+    <p xml:id="eco_de_000094_330"><w xml:id="eco_de_000094_330_0010">Es</w>
+  <w xml:id="eco_de_000094_330_0020">lag</w>
+  <w xml:id="eco_de_000094_330_0030">Alles</w>
+  <w xml:id="eco_de_000094_330_0040">wie</w>
+  <w xml:id="eco_de_000094_330_0050">ein</w>
+  <w xml:id="eco_de_000094_330_0060">ferner</w>
+  <w xml:id="eco_de_000094_330_0070">Traum</w>
+  <w xml:id="eco_de_000094_330_0080">hinter</w>
+  <w xml:id="eco_de_000094_330_0090">Johanna</w>
+  <pc xml:id="eco_de_000094_330_0100">,</pc>
+  <w xml:id="eco_de_000094_330_0110">Fleisch</w>
+  <w xml:id="eco_de_000094_330_0120">und</w>
+  <w xml:id="eco_de_000094_330_0130">Blut</w>
+  <w xml:id="eco_de_000094_330_0140">gewährten</w>
+  <w xml:id="eco_de_000094_330_0150">ihr</w>
+  <w xml:id="eco_de_000094_330_0160">die</w>
+  <w xml:id="eco_de_000094_330_0170">süße</w>
+  <w xml:id="eco_de_000094_330_0180">Behaglichkeit</w>
+  <w xml:id="eco_de_000094_330_0190">des</w>
+  <w xml:id="eco_de_000094_330_0200">täglichen</w>
+  <w xml:id="eco_de_000094_330_0210">Lebens</w>
+  <pc xml:id="eco_de_000094_330_0220">,</pc>
+  <w xml:id="eco_de_000094_330_0230">sie</w>
+  <w xml:id="eco_de_000094_330_0240">sah</w>
+  <pc xml:id="eco_de_000094_330_0250">,</pc>
+  <w xml:id="eco_de_000094_330_0260">daß</w>
+  <w xml:id="eco_de_000094_330_0270">Niemand</w>
+  <w xml:id="eco_de_000094_330_0280">mehr</w>
+  <w xml:id="eco_de_000094_330_0290">wollte</w>
+  <pc xml:id="eco_de_000094_330_0300">,</pc>
+  <w xml:id="eco_de_000094_330_0310">sie</w>
+  <w xml:id="eco_de_000094_330_0320">fuhr</w>
+  <w xml:id="eco_de_000094_330_0330">nach</w>
+  <w xml:id="eco_de_000094_330_0340">Hütteldorf</w>
+  <pc xml:id="eco_de_000094_330_0350">,</pc>
+  <w xml:id="eco_de_000094_330_0360">nach</w>
+  <w xml:id="eco_de_000094_330_0370">Hietzing</w>
+  <pc xml:id="eco_de_000094_330_0380">,</pc>
+  <w xml:id="eco_de_000094_330_0390">sie</w>
+  <w xml:id="eco_de_000094_330_0400">ging</w>
+  <w xml:id="eco_de_000094_330_0410">zum</w>
+  <w xml:id="eco_de_000094_330_0420">Sperl</w>
+  <w xml:id="eco_de_000094_330_0430">und</w>
+  <w xml:id="eco_de_000094_330_0440">in</w>
+  <w xml:id="eco_de_000094_330_0450">die</w>
+  <w xml:id="eco_de_000094_330_0460">Theater</w>
+  <pc xml:id="eco_de_000094_330_0470">,</pc>
+  <w xml:id="eco_de_000094_330_0480">sie</w>
+  <w xml:id="eco_de_000094_330_0490">ließ</w>
+  <w xml:id="eco_de_000094_330_0500">sich</w>
+  <w xml:id="eco_de_000094_330_0510">Bänder</w>
+  <w xml:id="eco_de_000094_330_0520">kaufen</w>
+  <w xml:id="eco_de_000094_330_0530">und</w>
+  <w xml:id="eco_de_000094_330_0540">Kleider</w>
+  <pc xml:id="eco_de_000094_330_0550">,</pc>
+  <w xml:id="eco_de_000094_330_0560">sie</w>
+  <w xml:id="eco_de_000094_330_0570">promenirte</w>
+  <w xml:id="eco_de_000094_330_0580">auf</w>
+  <w xml:id="eco_de_000094_330_0590">dem</w>
+  <w xml:id="eco_de_000094_330_0600">Graben</w>
+  <w xml:id="eco_de_000094_330_0610">und</w>
+  <w xml:id="eco_de_000094_330_0620">Kohlmarkte</w>
+  <pc xml:id="eco_de_000094_330_0630">,</pc>
+  <w xml:id="eco_de_000094_330_0640">sie</w>
+  <w xml:id="eco_de_000094_330_0650">fand</w>
+  <w xml:id="eco_de_000094_330_0660">die</w>
+  <w xml:id="eco_de_000094_330_0670">Luft</w>
+  <w xml:id="eco_de_000094_330_0680">warm</w>
+  <w xml:id="eco_de_000094_330_0690">und</w>
+  <w xml:id="eco_de_000094_330_0700">das</w>
+  <w xml:id="eco_de_000094_330_0710">Eis</w>
+  <w xml:id="eco_de_000094_330_0720">vortrefflich</w>
+  <pc xml:id="eco_de_000094_330_0730">,</pc>
+  <w xml:id="eco_de_000094_330_0740">sie</w>
+  <w xml:id="eco_de_000094_330_0750">lebte</w>
+  <pc xml:id="eco_de_000094_330_0760">,</pc>
+  <w xml:id="eco_de_000094_330_0770">war</w>
+  <w xml:id="eco_de_000094_330_0780">Wienerin</w>
+  <w xml:id="eco_de_000094_330_0790">geworden</w>
+  <pc unit="sentence" xml:id="eco_de_000094_330_0800">.</pc>
+</p>
+    <p xml:id="eco_de_000094_340"><w xml:id="eco_de_000094_340_0010">Nirgends</w>
+  <w xml:id="eco_de_000094_340_0020">anders</w>
+  <w xml:id="eco_de_000094_340_0030">als</w>
+  <w xml:id="eco_de_000094_340_0040">dort</w>
+  <pc xml:id="eco_de_000094_340_0050">,</pc>
+  <w xml:id="eco_de_000094_340_0060">wäre</w>
+  <w xml:id="eco_de_000094_340_0070">ihr</w>
+  <w xml:id="eco_de_000094_340_0080">dieß</w>
+  <w xml:id="eco_de_000094_340_0090">geglückt</w>
+  <pc unit="sentence" xml:id="eco_de_000094_340_0100">.</pc>
+</p>
+    <p xml:id="eco_de_000094_350"><w xml:id="eco_de_000094_350_0010">So</w>
+  <w xml:id="eco_de_000094_350_0020">weit</w>
+  <w xml:id="eco_de_000094_350_0030">war</w>
+  <w xml:id="eco_de_000094_350_0040">sie</w>
+  <w xml:id="eco_de_000094_350_0050">in</w>
+  <w xml:id="eco_de_000094_350_0060">ihrer</w>
+  <w xml:id="eco_de_000094_350_0070">Erzählung</w>
+  <w xml:id="eco_de_000094_350_0080">gekommen</w>
+  <pc xml:id="eco_de_000094_350_0090">,</pc>
+  <w xml:id="eco_de_000094_350_0100">als</w>
+  <w xml:id="eco_de_000094_350_0110">ein</w>
+  <w xml:id="eco_de_000094_350_0120">weißer</w>
+  <w xml:id="eco_de_000094_350_0130">Duft</w>
+  <w xml:id="eco_de_000094_350_0140">über</w>
+  <w xml:id="eco_de_000094_350_0150">den</w>
+  <w xml:id="eco_de_000094_350_0160">Himmel</w>
+  <w xml:id="eco_de_000094_350_0170">flog</w>
+  <w xml:id="eco_de_000094_350_0180">wie</w>
+  <w xml:id="eco_de_000094_350_0190">ein</w>
+  <w xml:id="eco_de_000094_350_0200">Schuß</w>
+  <pc xml:id="eco_de_000094_350_0210">–</pc>
+  <w xml:id="eco_de_000094_350_0220">es</w>
+  <w xml:id="eco_de_000094_350_0230">war</w>
+  <w xml:id="eco_de_000094_350_0240">der</w>
+  <w xml:id="eco_de_000094_350_0250">Morgen</w>
+  <pc xml:id="eco_de_000094_350_0260">,</pc>
+  <w xml:id="eco_de_000094_350_0270">ein</w>
+  <w xml:id="eco_de_000094_350_0280">Lerchentriller</w>
+  <w xml:id="eco_de_000094_350_0290">drang</w>
+  <w xml:id="eco_de_000094_350_0300">leise</w>
+  <w xml:id="eco_de_000094_350_0310">aus</w>
+  <w xml:id="eco_de_000094_350_0320">dem</w>
+  <w xml:id="eco_de_000094_350_0330">Felde</w>
+  <w xml:id="eco_de_000094_350_0340">herein</w>
+  <w xml:id="eco_de_000094_350_0350">bis</w>
+  <w xml:id="eco_de_000094_350_0360">auf</w>
+  <w xml:id="eco_de_000094_350_0370">die</w>
+  <w xml:id="eco_de_000094_350_0380">Bastion</w>
+  <pc unit="sentence" xml:id="eco_de_000094_350_0390">.</pc>
+</p>
+   </div>
+  </body>
+  <back />
+ </text>
+</TEI>

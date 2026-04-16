@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000152_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: Aus Mizi&apos;s Memoiren</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1895_Dirnboeck-Schulz_Aus-Mizis-Memoiren_tokenized.xml">1895_Dirnboeck-Schulz_Aus-Mizis-Memoiren_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000152_90_0150" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q10884"/>
+  <annotation target="#eco_de_0000152_130_0210" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q11748378"/>
+  <annotation target="#eco_de_0000152_140_1070" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q158954"/>
+  <annotation target="#eco_de_0000152_150_0420" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q158954"/>
+  <annotation target="#eco_de_0000152_160_0420" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q190491"/>
+  <annotation target="#eco_de_0000152_170_0030" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q158954"/>
+  <annotation target="#eco_de_0000152_190_0410" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q17592"/>
+  <annotation target="#eco_de_0000152_190_0430" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q102231"/>
+  <annotation target="#eco_de_0000152_200_0180" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q102231"/>
+  <annotation target="#eco_de_0000152_230_0300" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q158954"/>
+  <annotation target="#eco_de_0000152_230_0710" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q144"/>
+  <annotation target="#eco_de_0000152_240_0590" ana="#cat-plant" corresp="https://www.wikidata.org/wiki/Q158954"/>
+</listAnnotation>
+</standOff>
+</TEI>

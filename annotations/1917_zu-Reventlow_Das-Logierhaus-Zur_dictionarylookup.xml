@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000204_dictionarylookup" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Dictionary lookup annotations: Das Logierhaus »Zur schwankenden Weltkugel«</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>ecocor-tokenizer</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1917_zu-Reventlow_Das-Logierhaus-Zur_tokenized.xml">1917_zu-Reventlow_Das-Logierhaus-Zur_tokenized.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="ecocor-tokenizer" version="0.1.0">
+      <label>ecocor-tokenizer</label>
+      <desc>Word list: animal_plant-de.json</desc>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-16">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000204_130_0880" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q79803"/>
+  <annotation target="#eco_de_0000204_130_1640" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q79803"/>
+  <annotation target="#eco_de_0000204_140_0240" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q79803"/>
+  <annotation target="#eco_de_0000204_440_0710" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_450_0020" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_450_0130" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_460_0360" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_510_0090" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_520_0620" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_530_0100" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_540_0260" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q79803"/>
+  <annotation target="#eco_de_0000204_540_0890" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q920382"/>
+  <annotation target="#eco_de_0000204_640_0410" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_670_0560" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_670_0890" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_720_0780" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_740_1560" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_770_1480" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_770_2660" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_810_0100" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_810_0530" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_840_0190" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+  <annotation target="#eco_de_0000204_850_0730" ana="#cat-animal" corresp="https://www.wikidata.org/wiki/Q2535664"/>
+</listAnnotation>
+</standOff>
+</TEI>
