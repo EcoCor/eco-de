@@ -71,12 +71,10 @@
      German
     </language>
    </langUsage>
-   <textDesc>
-    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
-    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
-    <timeSlot key="T4" xmlns="http://distantreading.net/eltec/ns"/>
-   </textDesc>
+    <!-- <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/> -->
+    <!-- <size key="short" xmlns="http://distantreading.net/eltec/ns"/> -->
+    <!-- <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/> -->
+    <!-- <timeSlot key="T4" xmlns="http://distantreading.net/eltec/ns"/> -->
   </profileDesc>
   <revisionDesc>
    <change when="2026-04-16">
@@ -89,6 +87,8 @@
    <p xml:id="eco_de_000093_20">
     Schibes
    </p>
+  </front>
+  <body>
    <p xml:id="eco_de_000093_30">
     Der Schmied stand mit weitgespreizten Beinen da, hielt ein funkensprühendes Stück Eisen mit der Feuerzange auf dem Amboß fest und hämmerte darauf los, daß es hallte. – Sein weißblondes, wirres Haar fiel ihm bei jedem Schlag schwer in die Stirne, und sein Schatten tanzte wunderlich über die rußige Wand.
    </p>
@@ -1229,7 +1229,6 @@
    <p xml:id="eco_de_000093_3820">
     Dann sah er nichts mehr. Er fühlte nur des Hammers Schwere in seiner Faust, der auf den malmenden Tierrachen niederschmetterte – eins! – und auf das Gesicht, in dem das Lachen verging – zwei! und er schlug und schlug – hin und her, schlug und schlug …
    </p>
-  </front>
-  <body/>
+  </body> 
  </text>
 </TEI>
