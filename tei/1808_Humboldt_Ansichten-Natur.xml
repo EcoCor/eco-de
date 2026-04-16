@@ -74,9 +74,7 @@
      German
     </language>
    </langUsage>
-   <textDesc>
-    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-   </textDesc>
+    <!-- <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/> -->
   </profileDesc>
   <revisionDesc>
    <change when="2023-03-31">
@@ -90,8 +88,8 @@
     <docTitle>
      <titlePart type="main">Ansichten der Natur</titlePart>
      <titlePart type="sub">mit wissenschaftlichen Erläuterungen</titlePart>
-     <docAuthor>von Alexander von Humboldt</docAuthor>
     </docTitle>
+    <docAuthor>von Alexander von Humboldt</docAuthor>
    </titlePage>
    <div type="preface">
     <head>Vorrede zur ersten Ausgabe</head>
