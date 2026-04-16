@@ -71,12 +71,10 @@
      German
     </language>
    </langUsage>
-   <textDesc>
-    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
-    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
-    <timeSlot key="T1" xmlns="http://distantreading.net/eltec/ns"/>
-   </textDesc>
+    <!-- <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/> -->
+    <!-- <size key="short" xmlns="http://distantreading.net/eltec/ns"/> -->
+    <!-- <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/> -->
+    <!-- <timeSlot key="T1" xmlns="http://distantreading.net/eltec/ns"/> -->
   </profileDesc>
   <revisionDesc>
    <change when="2026-04-16">
