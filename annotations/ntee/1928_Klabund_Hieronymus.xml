@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000120_ntee" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Entity annotations (ntee): Hieronymus</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>Mareike Schuhmacher</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1928_Klabund_Hieronymus.xml">1928_Klabund_Hieronymus.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+      <category xml:id="cat-habitat"><catDesc>Habitat — landscape, water body, terrain</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="tei_entity_enricher" version="">
+      <label>NEISS TEI Entity Enricher (NTEE)</label>
+      <ref target="https://github.com/NEISSproject/tei_entity_enricher"/>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-20">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000120_40_0110" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000120_40_0180" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_40_0270" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_40_0380" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_40_0470" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_40_0810" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000120_40_0940" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_40_1090" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_0020" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_0100" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_0190" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000120_50_0320" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000120_50_0610" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_0710" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_0750" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_0920" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000120_50_0970" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_1590" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_50_1780" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0070" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0220" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0320" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0370" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0460" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000120_60_0560" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0780" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0790" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_0840" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1030" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1090" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1160" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1180" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1530" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1590" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1640" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_1670" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_2210" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_2380" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_2460" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_2890" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_2920" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_3050" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_3080" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_3380" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000120_60_3410" ana="#cat-animal"/>
+</listAnnotation>
+</standOff>
+</TEI>

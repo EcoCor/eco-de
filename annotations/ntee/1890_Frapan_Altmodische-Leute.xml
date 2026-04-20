@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000154_ntee" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Entity annotations (ntee): Altmodische Leute</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>Mareike Schuhmacher</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1890_Frapan_Altmodische-Leute.xml">1890_Frapan_Altmodische-Leute.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+      <category xml:id="cat-habitat"><catDesc>Habitat — landscape, water body, terrain</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="tei_entity_enricher" version="">
+      <label>NEISS TEI Entity Enricher (NTEE)</label>
+      <ref target="https://github.com/NEISSproject/tei_entity_enricher"/>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-20">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000154_30_0160" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_30_0180" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_30_1180" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_30_1210" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_30_1450" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_30_1530" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_30_1650" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_50_0470" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_110_0250" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_160_0280" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_170_0780" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_170_1020" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_170_1090" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_210_0490" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_240_0740" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_240_0870" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_240_0920" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_250_0110" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_250_0150" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_260_0300" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_260_0330" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_260_0460" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_260_0730" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_260_0840" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_260_1400" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_260_1430" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_290_1070" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_300_0460" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_350_0260" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_360_0310" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_390_0530" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_390_0580" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_400_0110" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_400_0140" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_400_0190" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_400_0260" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_540_0500" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_560_0320" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_710_0170" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_990_0580" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1050_0110" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1100_0350" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1100_0470" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1100_0500" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1110_0210" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1210_0080" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1210_0210" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1210_0590" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1210_0930" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1210_1020" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1210_2510" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1220_0430" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1220_0700" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1220_0720" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1220_1720" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1220_1800" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1230_0700" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1230_0750" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1230_0980" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1230_1300" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1300_0770" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1300_0810" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1300_1040" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1300_1220" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1300_1740" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1300_2060" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1310_0270" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1390_0640" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1480_0360" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1500_0030" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1510_0290" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1520_0860" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1520_0990" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1520_1040" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1520_1580" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1560_0590" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1610_0100" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1610_0120" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1610_0180" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1610_0320" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1640_0220" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1660_0140" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1660_0170" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1660_0340" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1660_0600" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1660_0630" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1690_0230" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1710_0080" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1740_0430" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1740_0490" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1760_0090" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1760_0230" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1760_0380" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1800_0040" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1800_0240" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1820_0100" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1840_0300" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1880_0220" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_1890_0480" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1890_0560" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1890_0940" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1890_0980" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1890_1020" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1890_1100" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1890_1130" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_1890_1730" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1970_0050" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_1980_0060" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_2050_1150" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_2050_1230" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000154_2130_0420" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_2140_0450" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_2140_0580" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_2140_0640" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_2470_0430" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000154_2480_0060" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000154_2750_0640" ana="#cat-plant"/>
+</listAnnotation>
+</standOff>
+</TEI>

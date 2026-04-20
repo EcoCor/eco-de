@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="eco_de_0000207_ntee" type="annotation" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Entity annotations (ntee): Die Silberwanze</title>
+      <respStmt>
+        <resp>automated annotation</resp>
+        <name>Mareike Schuhmacher</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>EcoCor</publisher>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <ref type="source" target="1917_zu-Reventlow_Die-Silberwanze.xml">1917_zu-Reventlow_Die-Silberwanze.xml</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+  <classDecl>
+    <taxonomy xml:id="ecocor-entity-types">
+      <category xml:id="cat-animal"><catDesc>Animal — Animalia</catDesc></category>
+      <category xml:id="cat-plant"><catDesc>Plant — Plantae</catDesc></category>
+      <category xml:id="cat-habitat"><catDesc>Habitat — landscape, water body, terrain</catDesc></category>
+    </taxonomy>
+  </classDecl>
+  <appInfo>
+    <application ident="tei_entity_enricher" version="">
+      <label>NEISS TEI Entity Enricher (NTEE)</label>
+      <ref target="https://github.com/NEISSproject/tei_entity_enricher"/>
+    </application>
+  </appInfo>
+</encodingDesc>
+  <revisionDesc>
+    <change when="2026-04-20">Generated</change>
+  </revisionDesc>
+</teiHeader>
+<standOff>
+  <listAnnotation type="entities">
+  <annotation target="#eco_de_0000207_50_0590" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_50_0690" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000207_50_0700" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000207_50_0740" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_60_1100" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_70_0600" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_70_0630" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_100_0500" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_100_0910" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_130_0150" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_130_0210" ana="#cat-plant"/>
+  <annotation target="#eco_de_0000207_140_0420" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_140_0440" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_140_0450" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_160_0280" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_160_0360" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000207_160_0440" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_160_0490" ana="#cat-habitat"/>
+  <annotation target="#eco_de_0000207_170_0590" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_170_0720" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_170_0730" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_170_0770" ana="#cat-animal"/>
+  <annotation target="#eco_de_0000207_200_1170" ana="#cat-animal"/>
+</listAnnotation>
+</standOff>
+</TEI>
